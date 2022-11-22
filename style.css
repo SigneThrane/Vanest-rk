@@ -28,41 +28,40 @@ body{
  .add_to_cart_button{
     color: black;
     background-color: #CB997E;
-    width: 150px;
-    height: 40px;
     border-radius: 20px;
-  
  }
 
 button.alt, input[type="button"].alt, input[type="reset"].alt, input[type="submit"].alt, .button.alt, .widget-area .widget a.button.alt {
     color: black;
     background-color: #CB997E;
-    width: 150px;
-    height: 50px;
     border-radius: 20px;
 }
+
 
 .woocommerce-message, .woocommerce-info, .woocommerce-error, .woocommerce-noreviews, p.no-comments {
     color: black;
     background-color: #CB997E;
+   
 }
 
 
 button, input[type="button"], input[type="reset"], input[type="submit"], .button, .widget a.button {
     color: black;
     background-color: #CB997E;
+    border-radius: 20px;
 }
 
 .woocommerce-info, .woocommerce-noreviews, p.no-comments {
     color: black;
     background-color: #CB997E;
+    
 }
 
 .added_to_cart, .site-header-cart .widget_shopping_cart a.button, .wc-block-grid__products .wc-block-grid__product .wp-block-button__link {
     color: black;
     background-color: #CB997E;
+    
 }
-
 
 
  /*Tekst*/
@@ -70,4 +69,6 @@ button, input[type="button"], input[type="reset"], input[type="submit"], .button
 .woocommerce-loop-product__title{
 
  }
+
+
 
