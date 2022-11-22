@@ -30,6 +30,11 @@ body{
     font-family: 'Lemon/Milk light', sans-serif;
  }
 
+ /*NAV/HEADER*/
+ #masthead {
+    background-color: #B7B7A4;
+ }
+
 
 /*Buttons*/
  .add_to_cart_button{
