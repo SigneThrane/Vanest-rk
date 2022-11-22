@@ -10,16 +10,6 @@
 ?>
 
 
-  <!-- Copyright -->
-  <div class="text-center p-4" style="background-color: #CB997E;">
-    © 2021 Copyright:
-    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">VaneStærk.dk</a>
-  </div>
-  <!-- Copyright -->
-</footer>
-<!-- Footer -->
-
-</div><!-- #page -->
 
 <?php wp_footer(); ?>
 
