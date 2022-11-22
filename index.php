@@ -12,7 +12,7 @@
  */
 
 get_header(); ?>
-
+<!-- #hero -->
 		<main id="main" class="site-main" role="main">
         <div class="container">
         <div class="row">
@@ -24,7 +24,7 @@ get_header(); ?>
         <p>Klik her for at læse mere om hvad vi kan tilbyde lige netop dig, og få mulighed for at blive del af et fællesskab, du ikke har lyst til at gå glip af</p>
         </div>
         </div>
-
+ <!-- #aktuelt -->       
         <div class="aktuelt">
         <div class="row">
         <div class="col-md-8">
@@ -37,13 +37,18 @@ Vi arbejder med emnerne madro, bevægelsesglæde og kropsrespekt, i et 10 ugers 
 Vi mødes hver tirsdag kl 19.15 og torsdag kl 18, opstart uge 47 til og med uge 5. (Vi holder ferie i uge 52))</br></br>
 
 <b>Pris: 5.500kr (eller 1850kr pr måned i 3 måneder)</b></p>
-
-        </div>
+</div>
         <div class="col-md-4">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLI6o9s6sy_qZ7gi0zyVMyp4j1aqr3ikBqdLE6HOv2KQ&s" alt="">
         </div>
         </div>
-		</main><!-- #main -->
+		</main>
+ <!-- #Galleri -->     
+ <div></div>
+ 
+  <!-- #Testimony -->    
+  <div></div>
+<!-- #main -->
 	</div><!-- #primary -->
 
 <?php
