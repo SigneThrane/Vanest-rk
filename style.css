@@ -68,9 +68,27 @@ button, input[type="button"], input[type="reset"], input[type="submit"], .button
 
  /*Tekst*/
 
-.woocommerce-loop-product__title{
+.woocommerce-products-header__title{
+color: blue;
+}
 
+.woocommerce-loop-product__title{
+color: green;
  }
 
+bdi{
+color: yellow;
+}
+.woocommerce-result-count{
+color: pink;
+}
+
+h3{
+    color: orange;
+    }
+
+ .wc-block-components-checkbox__label{
+    color: rebeccapurple;
+    }
 
 
