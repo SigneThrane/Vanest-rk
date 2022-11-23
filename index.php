@@ -15,13 +15,13 @@ get_header(); ?>
 <!-- #hero -->
 		<main id="main" class="site-main" role="main">
         <div class="container">
-        <div class="row">
+        <div class="row" id="velkommen">
         <div class="col-md-4">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLI6o9s6sy_qZ7gi0zyVMyp4j1aqr3ikBqdLE6HOv2KQ&s" alt="">
+        <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
         </div>
-        <div class="col-md-8">
+        <div class="col-md-8" id="col-text">
           <h1>Velkommen til Vane|Stærk, vi er glade for at se dig</h1>
-        <p>Klik her for at læse mere om hvad vi kan tilbyde lige netop dig, og få mulighed for at blive del af et fællesskab, du ikke har lyst til at gå glip af </p>
+        <p>Vi hjælper dig på din vej mod madro, bevægelsesglæde og selvkærlighed. Læs mere, for at se hvad vi kan tilbyde lige netop dig.  </p>
         <button id="laes">Læs mere</button>
      </div>
         </div>
@@ -40,7 +40,7 @@ Vi mødes hver tirsdag kl 19.15 og torsdag kl 18, opstart uge 47 til og med uge 
 <b>Pris: 5.500kr (eller 1850kr pr måned i 3 måneder)</b></p>
 </div>
         <div class="col-md-4">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLI6o9s6sy_qZ7gi0zyVMyp4j1aqr3ikBqdLE6HOv2KQ&s" alt="">
+        <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="vanestærk" id="aktimg">
         </div>
         </div>
 		</main>

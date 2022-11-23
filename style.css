@@ -20,14 +20,15 @@ Coral: #CB997E
 Hvid/beige: #F8F4EB
 */
 
+
 body{ 
     background-color: #F8F4EB;
     margin: 0%;
  }
 
+
  h1, h2, h3, h4 {
     font-family: 'Lemon/Milk light', sans-serif;
-    align-self: center;
  }
 
  p {
@@ -80,8 +81,29 @@ body{
       a:hover .fa-instagram{
         color: #f14843;
       }
+
+/*Forside*/
+#aktimg {
+    display: flex;
+    align-self: flex-end;
+}
+
+.aktuelt {
+    background-color: #B7B7A4;
+    padding: 3rem;
+ }
      
-   
+#velkommen {
+    margin-bottom: 3rem;
+}
+
+#col-text {
+    padding-left:3rem;
+    padding-right:3rem;
+    text-align: center;
+}
+
+
 /*Buttons*/
 
 #laes{
@@ -159,10 +181,6 @@ bdi{
     font-family: quicksand, sans-serif;
  }
 
- .aktuelt {
-    background-color: #B7B7A4;
-    padding:0;
- }
 
  /*FOOTER*/
 #footerstyle {
@@ -171,16 +189,20 @@ bdi{
 }
 
 #footer-col {
-    margin: 4rem;
+    margin-top: 4rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
 }
 
 #footer-col2 {
-    margin: 4rem;
+    margin-top: 4rem;
+    margin-right: 4rem;
     text-align:justify;
     align-items: center;
     margin-left: 10rem;
 }
 
+/*checkout*/
 .woocommerce-checkout .col-1, .woocommerce-checkout .col-2 {
     max-width: 100%;
 }
