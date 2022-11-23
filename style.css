@@ -8,6 +8,7 @@ Updated: 2022-11-22 16:52:55
 */
 
 @import url('https://fonts.cdnfonts.com/css/lemonmilk');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;800&family=Quicksand:wght@300;400&display=swap');
 
 /*{}*/
 
@@ -18,37 +19,31 @@ Beige: #FFE8D6
 Coral: #CB997E
 Hvid/beige: #F8F4EB
 */
-* {
-    margin: 0;
-}
 
 body{ 
     background-color: #F8F4EB;
  }
-
- h1, h2, h3, h4 {
-    font-family: 'Lemon/Milk light', sans-serif;
- }
-
 
 /*Buttons*/
  .add_to_cart_button{
     color: black;
     background-color: #CB997E;
     border-radius: 20px;
+    font-family: quicksand, sans-serif;
  }
 
 button.alt, input[type="button"].alt, input[type="reset"].alt, input[type="submit"].alt, .button.alt, .widget-area .widget a.button.alt {
     color: black;
     background-color: #CB997E;
     border-radius: 20px;
+    font-family: quicksand, sans-serif;
 }
 
 
 .woocommerce-message, .woocommerce-info, .woocommerce-error, .woocommerce-noreviews, p.no-comments {
     color: black;
     background-color: #CB997E;
-   
+    font-family: quicksand, sans-serif;
 }
 
 
@@ -56,26 +51,57 @@ button, input[type="button"], input[type="reset"], input[type="submit"], .button
     color: black;
     background-color: #CB997E;
     border-radius: 20px;
+    font-family: quicksand, sans-serif;
 }
 
 .woocommerce-info, .woocommerce-noreviews, p.no-comments {
     color: black;
     background-color: #CB997E;
-    
+    font-family: quicksand, sans-serif;
 }
 
 .added_to_cart, .site-header-cart .widget_shopping_cart a.button, .wc-block-grid__products .wc-block-grid__product .wp-block-button__link {
     color: black;
     background-color: #CB997E;
-    
+    font-family: quicksand, sans-serif;
 }
 
 
  /*Tekst*/
+ h1, h2, h4 {
+    font-family: 'Lemon/Milk light', sans-serif;
+    font-size: xx-large;
+ }
 
-.woocommerce-loop-product__title{
+ h3{
+    font-family: 'Lemon/Milk light', sans-serif;
+    font-size: large;
+ }
 
+bdi{
+    font-family: 'Lemon/Milk light', sans-serif;
+    font-size: small;
+ }
+
+ .product_title {
+    font-family: 'Lemon/Milk light', sans-serif;
+    font-size: x-large;
+ }
+
+ p{
+    font-family: quicksand, sans-serif;
  }
 
 
+.woocommerce-checkout .col-1, .woocommerce-checkout .col-2 {
+    max-width: 100%;
+}
+
+.woocommerce-checkout .form-row {
+    display: block;
+}
+
+#masthead.site-header{ 
+    background-color: #747D6B;
+ }
 
