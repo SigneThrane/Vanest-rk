@@ -9,7 +9,13 @@
 
 ?>
 
+<!-- Footer -->
+<footer class="text-center text-black" style="background-color: #CB997E;">
 
+</footer>
+<!-- Footer -->
+
+</div><!-- #page -->
 
 <?php wp_footer(); ?>
 
