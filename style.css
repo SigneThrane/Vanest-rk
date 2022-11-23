@@ -150,8 +150,10 @@ bdi{
     padding:0;
  }
 
-.footer {
-    margin-top: 2rem;
+#footerstyle {
+    padding-top: 5rem;
+    background-color: #CB997E;
+    color:black;
 }
 
 .woocommerce-checkout .col-1, .woocommerce-checkout .col-2 {
