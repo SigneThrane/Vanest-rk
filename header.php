@@ -28,27 +28,32 @@
 	<?php do_action( 'storefront_before_header' ); ?>
 
 	<header id="masthead" class="site-header" role="banner" style="<?php storefront_header_styles(); ?>">
+                    <div class="logo">
+                     <img src="<?php the_field('logo'); ?>" alt="logo" class="center" />
+                     <button id="book">BOOK NU</button>
+                    </div>
 
-		<?php
-		/**
-		 * Functions hooked into storefront_header action
-		 *
-		 * @hooked storefront_header_container                 - 0
-		 * @hooked storefront_skip_links                       - 5
-		 * @hooked storefront_social_icons                     - 10
-		 * @hooked storefront_site_branding                    - 20
-		 * @hooked storefront_secondary_navigation             - 30
-		 * @hooked storefront_product_search                   - 40
-		 * @hooked storefront_header_container_close           - 41
-		 * @hooked storefront_primary_navigation_wrapper       - 42
-		 * @hooked storefront_primary_navigation               - 50
-		 * @hooked storefront_header_cart                      - 60
-		 * @hooked storefront_primary_navigation_wrapper_close - 68
-		 */
-		do_action( 'storefront_header' );
-		?>
+                    <div id="nav">
+                      <ul>
+                        <li><a href="#">Forside</a></li>
+                          <li><a href="#">Om Vanestærk</a></li>
+                             <li><a href="#">Forløb og priser</a></li>
+                                 <li><a href="#">Booking</a></li>
+                                     <li><a href="#">Kontakt</a></li>       
+                                        <li><a href="#">Shop</a></li>
+                       </ul>
+        
+    <div class="Social-media">
+      <a id="icon" href="https://www.facebook.com/"><font color="#000000"><i class="fab fa-facebook"></i></font></a>
+      <a id="icon" href="https://www.instagram.com/"><font color="#000000"><i class="fab fa-instagram"></i></font></a>
+    
+    </div>
+       
 
-	</header><!-- #masthead -->
+		</div><!-- .col-full -->
+                    </div>
+
+    </header><!-- #masthead -->
 
 	<?php
 	/**

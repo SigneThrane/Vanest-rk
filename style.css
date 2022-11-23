@@ -33,6 +33,65 @@ body{
     background-color: #B7B7A4;
  }
 
+ .logo{
+    background-color: #B7B7A4;
+    text-align: center;
+ }
+
+ .nav{
+    background-color: #747D6B;
+ }
+
+ li {
+    display: inline;
+  }
+
+  li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 20px;
+    font-family: 'Lemon/Milk light', sans-serif;
+    color: black;
+  }
+  
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+  }
+
+#book{
+    position: absolute;
+    right: 25%;
+    top: 30%;
+    font-family: 'Lemon/Milk light', sans-serif;
+  }
+
+  .Social-media{
+    display: flex;
+    justify-content: center;
+  }
+
+  #icon{
+    display: flex;
+    height: 10px;
+    width: 10px;
+    margin: 0 15px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  a:hover .fa-facebook{
+    color: #3b5998;
+  }
+  a:hover .fa-instagram{
+    color: #f14843;
+  }
+
 
 /*Buttons*/
  .add_to_cart_button{
