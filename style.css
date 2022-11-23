@@ -24,6 +24,16 @@ body{
     background-color: #F8F4EB;
  }
 
+ h1, h2, h3, h4 {
+    font-family: 'Lemon/Milk light', sans-serif;
+ }
+
+ /*NAV/HEADER*/
+ #masthead {
+    background-color: #B7B7A4;
+ }
+
+
 /*Buttons*/
  .add_to_cart_button{
     color: black;
