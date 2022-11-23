@@ -31,7 +31,7 @@
                     <div class="logo">
                     <div class="Social-media">
       <a id="icon" href="https://www.facebook.com/"><font color="#000000"><i class="fab fa-facebook"></i></font></a>
-      <a id="icon" href="https://www.instagram.com/"><font color="#000000"><i class="fab fa-instagram"></i></font></a>
+      <a id="icon1" href="https://www.instagram.com/"><font color="#000000"><i class="fab fa-instagram"></i></font></a>
     </div>
                          <button id="book">BOOK NU</button>
                     </div>

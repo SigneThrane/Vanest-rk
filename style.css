@@ -47,21 +47,24 @@ body{
   .site-header .site-search {
     display: none;
     }
+
     .Social-media{
         display: flex;
         justify-content: center;
       }
     
       #icon{
-        display: flex;
-        height: 45px;
-        width: 45px;
-        margin: 0 15px;
-        border-radius: 8px;
-        right: 25%;
-        justify-content: center;
-        border: 1px solid rgba(0, 124, 196, 0);
-        transition: transform 0.5s
+        position: absolute;
+    right: 32%;
+    top: 24%;
+    font-size: xx-large;
+      }
+
+      #icon1{
+        position: absolute;
+        right: 35%;
+        top: 24%;
+        font-size: xx-large; 
       }
       
       a:hover .fa-facebook{
