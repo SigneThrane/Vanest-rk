@@ -15,7 +15,11 @@
   <!-- Copyright -->
   <div class="text-center" id="footerstyle">
   <div class="row">
-    <div class="col">
+    <div class="col" id="footer-col2">
+
+	 <!-- LOGOOOO -->
+		<img src="./" alt="">
+		<!---->
 	<p><i class="fas fa-home me-3"></i> D. Lauritzens vej 12, 6700 Esbjerg</br></br> 
 
  
@@ -35,26 +39,26 @@ CVR-nr: 35975942</p>
 
           </p> 
     </div>
-    <div class="col">
+    <div class="col" id="footer-col">
 	<p> 
 
 Følg os på sociale medier og modtag løbende opdateringer, nyheder, samt få mulighed for at deltage i konkurrencer <br> <br> 
 
-<a href="" class="me-4 text-reset"> 
+<a href="https://facebook.dk" class="me-4 text-reset"> 
 
-<i class="fab fa-facebook-f"></i> 
+<i class="fab fa-facebook-f fa-4x"></i> 
 
 </a> 
 
-<a href="" class="me-4 text-reset"> 
+<a href="https://instagram.dk" class="me-4 text-reset"> 
 
-<i class="fab fa-instagram"></i> 
+<i class="fab fa-instagram fa-4x"></i> 
 
 </a> 
 
 </p> 
     </div>
-    <div class="col">
+    <div class="col" id="footer-col2">
       <p> 
 
             <a href="#!" class="text-reset">Om VaneStærk</a> 

@@ -21,8 +21,9 @@ get_header(); ?>
         </div>
         <div class="col-md-8">
           <h1>Velkommen til Vane|Stærk, vi er glade for at se dig</h1>
-        <p>Klik her for at læse mere om hvad vi kan tilbyde lige netop dig, og få mulighed for at blive del af et fællesskab, du ikke har lyst til at gå glip af</p>
-        </div>
+        <p>Klik her for at læse mere om hvad vi kan tilbyde lige netop dig, og få mulighed for at blive del af et fællesskab, du ikke har lyst til at gå glip af </p>
+        <button id="laes">Læs mere</button>
+     </div>
         </div>
  <!-- #aktuelt -->       
         <div class="aktuelt">
