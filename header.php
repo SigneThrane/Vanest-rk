@@ -30,8 +30,8 @@
 	<header id="masthead" class="site-header" role="banner" style="<?php storefront_header_styles(); ?>">
                     <div class="logo">
                     <div class="Social-media">
-      <a id="icon" href="https://www.facebook.com/"><font color="#000000"><i class="fab fa-facebook"></i></font></a>
-      <a id="icon1" href="https://www.instagram.com/"><font color="#000000"><i class="fab fa-instagram"></i></font></a>
+      <a id="icon" href="https://www.facebook.com/PTSandraLykke/"><font color="#000000"><i class="fab fa-facebook"></i></font></a>
+      <a id="icon1" href="https://www.instagram.com/vane.staerk/?hl=da"><font color="#000000"><i class="fab fa-instagram"></i></font></a>
     </div>
                          <button id="book">BOOK NU</button>
                     </div>

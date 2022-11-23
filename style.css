@@ -22,6 +22,7 @@ Hvid/beige: #F8F4EB
 
 body{ 
     background-color: #F8F4EB;
+    margin: 0%;
  }
 
  h1, h2, h3, h4 {
@@ -188,3 +189,23 @@ bdi{
     display: block;
 }
 
+
+
+ /*Kontakt*/
+div.storefront-breadcrumb{
+    display: none;
+    }
+
+.col4{
+   background-color: #F8F4EB;
+    }
+
+.col5{
+background-color: #FFE8D6;
+height: 140px;
+margin: 0%;
+}
+
+.col6, .overlay{
+background-color: #B7B7A4;
+}
