@@ -204,8 +204,13 @@ div.storefront-breadcrumb{
 background-color: #FFE8D6;
 height: 140px;
 margin: 0%;
+width: 100%;
 }
 
 .col6, .overlay{
 background-color: #B7B7A4;
 }
+
+.fab{
+font-size: xx-large;
+    }
