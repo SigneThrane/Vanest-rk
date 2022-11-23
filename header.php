@@ -29,10 +29,13 @@
 
 	<header id="masthead" class="site-header" role="banner" style="<?php storefront_header_styles(); ?>">
                     <div class="logo">
-                     <button id="book">BOOK NU</button>
+                    <div class="Social-media">
+      <a id="icon" href="https://www.facebook.com/"><font color="#000000"><i class="fab fa-facebook"></i></font></a>
+      <a id="icon" href="https://www.instagram.com/"><font color="#000000"><i class="fab fa-instagram"></i></font></a>
+    </div>
+                         <button id="book">BOOK NU</button>
                     </div>
-        
-                    <?php
+		<?php
 		/**
 		 * Functions hooked into storefront_header action
 		 *
@@ -41,24 +44,17 @@
 		 * @hooked storefront_social_icons                     - 10
 		 * @hooked storefront_site_branding                    - 20
 		 * @hooked storefront_secondary_navigation             - 30
+		 * @hooked storefront_product_search                   - 40
 		 * @hooked storefront_header_container_close           - 41
 		 * @hooked storefront_primary_navigation_wrapper       - 42
 		 * @hooked storefront_primary_navigation               - 50
+		 * @hooked storefront_header_cart                      - 60
 		 * @hooked storefront_primary_navigation_wrapper_close - 68
 		 */
 		do_action( 'storefront_header' );
 		?>
 
-    <div class="Social-media">
-      <a id="icon" href="https://www.facebook.com/"><font color="#000000"><i class="fab fa-facebook"></i></font></a>
-      <a id="icon" href="https://www.instagram.com/"><font color="#000000"><i class="fab fa-instagram"></i></font></a>
-    </div>
-    
-		</div><!-- .col-full -->
-                    </div>
-
-    </header><!-- #masthead -->
-
+	</header><!-- #masthead -->
 
 	<?php
 	/**
@@ -74,4 +70,4 @@
 		<div class="col-full">
 
 		<?php
-		do_action( 'storefront_content_top' ); 
+		do_action( 'storefront_content_top' );
