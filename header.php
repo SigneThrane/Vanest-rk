@@ -33,27 +33,33 @@
                      <button id="book">BOOK NU</button>
                     </div>
 
-                    <div id="nav">
-                      <ul>
-                        <li><a href="#">Forside</a></li>
-                          <li><a href="#">Om Vanestærk</a></li>
-                             <li><a href="#">Forløb og priser</a></li>
-                                 <li><a href="#">Booking</a></li>
-                                     <li><a href="#">Kontakt</a></li>       
-                                        <li><a href="#">Shop</a></li>
-                       </ul>
-        
-    <div class="Social-media">
+                   
+                    <?php
+		/**
+		 * Functions hooked into storefront_header action
+		 *
+		 * @hooked storefront_header_container                 - 0
+		 * @hooked storefront_skip_links                       - 5
+		 * @hooked storefront_social_icons                     - 10
+		 * @hooked storefront_site_branding                    - 20
+		 * @hooked storefront_secondary_navigation             - 30
+		 * @hooked storefront_header_container_close           - 41
+		 * @hooked storefront_primary_navigation_wrapper       - 42
+		 * @hooked storefront_primary_navigation               - 50
+		 * @hooked storefront_primary_navigation_wrapper_close - 68
+		 */
+		do_action( 'storefront_header' );
+		?>
+<div class="Social-media">
       <a id="icon" href="https://www.facebook.com/"><font color="#000000"><i class="fab fa-facebook"></i></font></a>
       <a id="icon" href="https://www.instagram.com/"><font color="#000000"><i class="fab fa-instagram"></i></font></a>
     
     </div>
-       
-
 		</div><!-- .col-full -->
                     </div>
 
     </header><!-- #masthead -->
+
 
 	<?php
 	/**
