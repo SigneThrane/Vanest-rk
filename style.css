@@ -23,23 +23,9 @@ Hvid/beige: #F8F4EB
 
 body{ 
     background-color: #F8F4EB;
-<<<<<<< Updated upstream
     margin: 0%;
-=======
-    margin: 0;
-    margin-left: 0;
-    margin-right: 0;
-    padding:0;
  }
 
- main{ 
-    background-color: #F8F4EB;
-    margin: 0;
-    margin-left: 0;
-    margin-right: 0;
-    padding:0;
->>>>>>> Stashed changes
- }
 
  h1, h2, h3, h4 {
     font-family: 'Lemon/Milk light', sans-serif;
