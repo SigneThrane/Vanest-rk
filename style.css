@@ -26,6 +26,11 @@ body{
 
  h1, h2, h3, h4 {
     font-family: 'Lemon/Milk light', sans-serif;
+    align-self: center;
+ }
+
+ p {
+    color: black;
  }
 
  /*NAV/HEADER*/
@@ -77,6 +82,11 @@ body{
      
    
 /*Buttons*/
+
+#laes{
+    font-family: 'Lemon/Milk light', sans-serif;
+  }
+
  .add_to_cart_button{
     color: black;
     background-color: #CB997E;
@@ -153,10 +163,21 @@ bdi{
     padding:0;
  }
 
+ /*FOOTER*/
 #footerstyle {
-    padding-top: 5rem;
     background-color: #CB997E;
     color:black;
+}
+
+#footer-col {
+    margin: 4rem;
+}
+
+#footer-col2 {
+    margin: 4rem;
+    text-align:justify;
+    align-items: center;
+    margin-left: 10rem;
 }
 
 .woocommerce-checkout .col-1, .woocommerce-checkout .col-2 {
