@@ -29,11 +29,9 @@
 
 	<header id="masthead" class="site-header" role="banner" style="<?php storefront_header_styles(); ?>">
                     <div class="logo">
-                     <img src="<?php the_field('logo'); ?>" alt="logo" class="center" />
                      <button id="book">BOOK NU</button>
                     </div>
-
-                   
+        
                     <?php
 		/**
 		 * Functions hooked into storefront_header action
@@ -50,11 +48,12 @@
 		 */
 		do_action( 'storefront_header' );
 		?>
-<div class="Social-media">
+
+    <div class="Social-media">
       <a id="icon" href="https://www.facebook.com/"><font color="#000000"><i class="fab fa-facebook"></i></font></a>
       <a id="icon" href="https://www.instagram.com/"><font color="#000000"><i class="fab fa-instagram"></i></font></a>
-    
     </div>
+    
 		</div><!-- .col-full -->
                     </div>
 
@@ -75,4 +74,4 @@
 		<div class="col-full">
 
 		<?php
-		do_action( 'storefront_content_top' );
+		do_action( 'storefront_content_top' ); 

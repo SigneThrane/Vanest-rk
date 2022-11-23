@@ -33,36 +33,11 @@ body{
     background-color: #B7B7A4;
  }
 
- .logo{
-    background-color: #B7B7A4;
-    text-align: center;
- }
+
 
  .nav{
     background-color: #747D6B;
  }
-
- li {
-    display: inline;
-  }
-
-  li {
-    float: left;
-  }
-  
-  a {
-    display: block;
-    padding: 20px;
-    font-family: 'Lemon/Milk light', sans-serif;
-    color: black;
-  }
-  
- .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 15%;
-  }
 
 #book{
     position: absolute;
@@ -92,6 +67,9 @@ body{
     color: #f14843;
   }
 
+  .site-header .site-search {
+    display: none;
+    }
 
 /*Buttons*/
  .add_to_cart_button{
