@@ -44,6 +44,7 @@ Vi mødes hver tirsdag kl 19.15 og torsdag kl 18, opstart uge 47 til og med uge 
         <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="vanestærk" id="aktimg">
         </div>
         </div>
+        </div>
 		</main>
  <!-- #Galleri -->     
  <div><h2>Galleri</h2></div>
