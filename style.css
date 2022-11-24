@@ -23,7 +23,7 @@ Hvid/beige: #F8F4EB
 
 body{ 
     background-color: #F8F4EB;
-    margin: 0%;
+    margin: 0 !important;
  }
 
 
@@ -202,6 +202,10 @@ bdi{
     margin-left: 10rem;
 }
 
+.fab{
+    font-size: xx-large;
+        }
+
 /*checkout*/
 .woocommerce-checkout .col-1, .woocommerce-checkout .col-2 {
     max-width: 100%;
@@ -211,8 +215,6 @@ bdi{
     display: block;
 }
 
-
-
  /*Kontakt*/
 div.storefront-breadcrumb{
     display: none;
@@ -220,19 +222,45 @@ div.storefront-breadcrumb{
 
 .col4{
    background-color: #F8F4EB;
+    padding-left:40%;
+    text-align: center;
     }
 
 .col5{
 background-color: #FFE8D6;
-height: 140px;
-margin: 0%;
-width: 100%;
+padding-left:40%;
+text-align: center;
 }
 
-.col6, .overlay{
-background-color: #B7B7A4;
-}
-
-.fab{
-font-size: xx-large;
+.col6{
+    background-color: #B7B7A4;
+    padding-left:40%;
+    text-align: center;
     }
+
+.overlay{
+background-color: #B7B7A4;
+height: 30%;
+padding-bottom: -100px;
+}
+
+.kontakt{
+position: relative;
+width: 40%;
+top: -430px;
+display: flex;
+justify-content: center;
+align-items: center
+    }
+
+
+ /*Shop*/
+
+    .widget {
+        font-size: 1.4rem;
+        line-height: 2;
+        margin-bottom: 5em;
+        overflow-wrap: break-word;
+        padding: 2em;
+    }
+

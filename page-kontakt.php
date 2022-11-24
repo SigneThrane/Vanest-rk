@@ -16,9 +16,10 @@ get_header(); ?>
 <main id="main" class="site-main" role="main">
      <div class="row-kontakt">
              <div class="col4">
+                  <br>
                 <h1>KONTAKT</h1>
-                <p>Vil du høre mere om mulighederne for personlig træning, coaching eller gruppeforløb, så er jeg altid klar på en uforpligtende snak over telefon eller i studiet. <br>
-                    Du kan kontakte mig på telefon, instagram eller via kontaktformularen her på siden.</p>
+                <p>Vil du høre mere om mulighederne for personlig træning, <br> coaching eller gruppeforløb, så er jeg altid klar på en <br> uforpligtende snak over telefon eller i studiet. <br>
+                    Du kan kontakte mig på telefon, instagram eller via <br> kontaktformularen her på siden.</p>
              </div>
                       <div class="col5">
                             <p>+45 28 45 64 43</p>
@@ -30,8 +31,8 @@ get_header(); ?>
 
                     </div>
                        <div class="overlay">
-                       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLI6o9s6sy_qZ7gi0zyVMyp4j1aqr3ikBqdLE6HOv2KQ&s" alt="">
-                       <h1>Jeg ser frem til at høre fra dig</h1>
+                       <img class="kontakt" src="<?php the_field('kontakt'); ?>" alt="" />
+                       <h1>Jeg ser frem til at <br> høre fra dig</h1>
                        </div>
 
     </div>
