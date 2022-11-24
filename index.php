@@ -26,7 +26,7 @@ get_header(); ?>
      </div>
         </div>
  <!-- #aktuelt -->       
-        <div class="aktuelt">
+        <div class="grønboks">
         <div class="row">
         <div class="col-md-8">
         <h2>Aktuelt i Vane Stærk</h2>

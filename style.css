@@ -88,7 +88,7 @@ body{
     align-self: flex-end;
 }
 
-.aktuelt {
+.grønboks {
     background-color: #B7B7A4;
     padding: 3rem;
  }
@@ -263,4 +263,11 @@ align-items: center
         overflow-wrap: break-word;
         padding: 2em;
     }
+
+     /*Om Vanestærk*/
+     .colcoral{
+        background-color:  #FFE8D6;
+        text-align: center;
+    }
+    
 
