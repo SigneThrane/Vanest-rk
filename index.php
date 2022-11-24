@@ -20,7 +20,7 @@ get_header(); ?>
         <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
         </div>
         <div class="col-md-8" id="col-text">
-          <h1>Velkommen til Vane|Stærk, vi er glade for at se dig</h1>
+        <hr class="rounded"><h1>Velkommen til Vane|Stærk, vi er glade for at se dig</h1><hr class="rounded">
         <p>Vi hjælper dig på din vej mod madro, bevægelsesglæde og selvkærlighed. Læs mere, for at se hvad vi kan tilbyde lige netop dig.  </p>
         <button id="laes">Læs mere</button>
      </div>
@@ -38,6 +38,7 @@ Vi arbejder med emnerne madro, bevægelsesglæde og kropsrespekt, i et 10 ugers 
 Vi mødes hver tirsdag kl 19.15 og torsdag kl 18, opstart uge 47 til og med uge 5. (Vi holder ferie i uge 52))</br></br>
 
 <b>Pris: 5.500kr (eller 1850kr pr måned i 3 måneder)</b></p>
+<button id="laes">Book her</button>
 </div>
         <div class="col-md-4">
         <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="vanestærk" id="aktimg">
@@ -45,10 +46,10 @@ Vi mødes hver tirsdag kl 19.15 og torsdag kl 18, opstart uge 47 til og med uge 
         </div>
 		</main>
  <!-- #Galleri -->     
- <div></div>
+ <div><h2>Galleri</h2></div>
  
   <!-- #Testimony -->    
-  <div></div>
+<h2>Det siger vores kunder om vanestærk</h2></div>
 <!-- #main -->
 	</div><!-- #primary -->
 
