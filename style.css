@@ -278,6 +278,20 @@ align-items: center
 
       #beigeboks {
         margin-bottom: 3rem;
-        background-color: #FFE8D6;
+        background-color: #FFE8D6; 
     }
 
+    table:not( .has-background ) th {
+        background-color: #747D6B;
+        color: black;
+    }
+
+    table:not( .has-background ) tbody td {
+        background-color: #B7B7A4;
+        color: black;
+    } 
+ 
+    table:not( .has-background ) tbody tr:nth-child(2n) td, fieldset, fieldset legend {
+        background-color: #B7B7A4;
+    }
+    
