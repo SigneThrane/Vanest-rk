@@ -27,7 +27,7 @@ get_header(); ?>
                      </div>
                     <div class="col6">
                           <h1>KONTAKTFORMULAR</h1>
-                          <?php echo apply_shortcodes( '[[contact-form-7 id="56" title="Contact form 1"]]' ); ?>
+                          <?php echo apply_shortcodes( '[contact-form-7 id="56" title="Contact form 1"]' ); ?>
 
                     </div>
                        <div class="overlay">

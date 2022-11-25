@@ -269,5 +269,18 @@ align-items: center
         background-color:  #FFE8D6;
         text-align: center;
     }
+
+
+     /*Forløb og priser*/
+     .colforløb{
+        background-color:  #F8F4EB;
+    }
+
+      #beigeboks {
+        margin-bottom: 3rem;
+        background-color: #FFE8D6;
+    }
+
+
     
 

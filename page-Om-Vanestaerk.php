@@ -59,6 +59,8 @@ get_header(); ?>
       Vane|Stærk er “et fællesskab man ikke har lyst til at gå glip af” 
        </p>   
 </div>
+</div>
+</div>
 
             <div class="colcoral">
                 <h3>"Hvis du mestrer vanen, så kommer målet til dig.
