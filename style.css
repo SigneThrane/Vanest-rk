@@ -75,11 +75,11 @@ body{
       }
       
       a:hover .fa-facebook{
-        color: #3b5998;
+        color: #CB997E;
       }
     
       a:hover .fa-instagram{
-        color: #f14843;
+        color: #CB997E;
       }
 
 /*Forside*/
@@ -269,6 +269,18 @@ align-items: center
         background-color:  #FFE8D6;
         text-align: center;
     }
+
+    #Corallinjeboks{
+        background-color:  #CB997E;
+    }
+
+    #venstreboks{
+        text-align: center;
+    }
+
+    .personale{
+        text-align: center;
+    } 
 
 
      /*Forløb og priser*/
