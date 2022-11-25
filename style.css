@@ -264,6 +264,23 @@ text-align: center;
         text-align: center;
     } 
 
+    #personale1{
+        background-color:  #B7B7A4;
+        border-radius: 30px;
+        text-align: center;
+    }
+
+    #personale2{
+        background-color:  #CB997E;
+        border-radius: 30px;
+        text-align: center;
+    }
+
+    #personale3{
+        background-color:  #747D6B;
+        border-radius: 30px;
+        text-align: center;
+    }
 
      /*Forløb og priser*/
      .colforløb{

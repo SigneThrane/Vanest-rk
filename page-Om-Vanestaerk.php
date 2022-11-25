@@ -145,7 +145,7 @@ get_header(); ?>
         </div>
         
                 <div class="col-8">
-                    <h2>Sandra Lykke</h2>
+                    <h1>Sandra Lykke</h1>
                     <p>
                     Gruppetræning udgør en stor del af min praksis, da jeg har oplevet <br>
                     hvordan træningsglæden og motivationen for at ​fastholde  <br>
@@ -161,23 +161,47 @@ get_header(); ?>
                 </div>
        </div> 
 
-       <div class="row" id="personale1">
+       <div class="row" id="personale2">
         <div class="col-4">
         <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
         </div>
         
-                       <div class="col-8">dfdf
-
+                       <div class="col-8">
+                       <h1>Sara Busch</h1>
+                            <p>
+                            Gruppetræning udgør en stor del af min praksis, da jeg har oplevet  <br>
+                            hvordan træningsglæden og motivationen for at ​fastholde <br>
+                            træningsrytmen stiger når vi samles om træningen i grupper. <br><br>
+                            På gruppetræning indgår du på 1-2 hold ugentligt sammen med op <br>
+                            til 7 andre på hvert hold. Det er den samme gruppe du træner med  <br>
+                            på hvert hold, så vi får oparbejdet en god dynamik og holdånd. <br> <br>
+                            Træningen består af helkropstræning med frie vægte og egen <br>
+                            kropsvægt.  <br>
+                            Og vi arbejder med at fremme all round sundhed, med elementer af <br>
+                            styrke, smidighed og udholdenhed. <br>
+                            </p>
                      </div>
        </div>
 
-       <div class="row" id="personale1">
+       <div class="row" id="personale3">
         <div class="col-4">
         <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
         </div>
         
-                     <div class="col-8">dfdf
-
+                     <div class="col-8">
+                     <h1>Kristiane Jensen</h1>
+                     <p>
+                            Gruppetræning udgør en stor del af min praksis, da jeg har oplevet  <br>
+                            hvordan træningsglæden og motivationen for at ​fastholde <br>
+                            træningsrytmen stiger når vi samles om træningen i grupper. <br><br>
+                            På gruppetræning indgår du på 1-2 hold ugentligt sammen med op <br>
+                            til 7 andre på hvert hold. Det er den samme gruppe du træner med  <br>
+                            på hvert hold, så vi får oparbejdet en god dynamik og holdånd. <br> <br>
+                            Træningen består af helkropstræning med frie vægte og egen <br>
+                            kropsvægt.  <br>
+                            Og vi arbejder med at fremme all round sundhed, med elementer af <br>
+                            styrke, smidighed og udholdenhed. <br>
+                            </p>
                     </div>
        </div>
 
