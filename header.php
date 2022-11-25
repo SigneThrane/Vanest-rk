@@ -33,7 +33,7 @@
       <a id="icon" href="https://www.facebook.com/PTSandraLykke/"><font color="#000000"><i class="fab fa-facebook"></i></font></a>
       <a id="icon1" href="https://www.instagram.com/vane.staerk/?hl=da"><font color="#000000"><i class="fab fa-instagram"></i></font></a>
     </div>
-                         <button id="book">BOOK NU</button>
+                  <a href="/booking/"> <button id="book">BOOK NU</button> </a>     
                     </div>
 		<?php
 		/**

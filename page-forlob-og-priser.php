@@ -31,8 +31,8 @@ get_header(); ?>
         Når du er i et forløb hos Vane|Stærk får du tilbud på <br> adgang til events, foredrag, temaaftener og workshops. <br><br>
         Klik herunder for at læse om: <br>
       </p>
-      <p>Individuelt forløb</p>
-      <p>Gruppetræning</p>
+     <a href="#"><p>Individuelt forløb</p></a> 
+       <a href="#"><p>Gruppetræning</p></a>   
 
      </div>
         </div>
@@ -40,7 +40,7 @@ get_header(); ?>
         <div class="grønboks">
         <div class="row">
         <div class="col-md-8">
-        <h2>INDIVIDUELT FORLØB</h2>
+        <h2 >INDIVIDUELT FORLØB</h2>
        <p>I et individuelt forløb modtager du privat træning og/eller coaching i <br>
        Vane|Stærk studiet. <br>
        Forløbet tager udgangspunkt i dine ønsker, og kan involvere både træning,  <br>
@@ -157,7 +157,7 @@ get_header(); ?>
               find en ledig tid via "gå til booking" <br>
               knappen herunder.
               </p>
-              <button id="laes">Gå til booking</button>
+           <a href="/booking/"> <button id="laes">Gå til booking</button></a>  
      </div>
         </div>
 
@@ -294,7 +294,7 @@ get_header(); ?>
               
 Du kan også kontakte mig med ønsker om specifikke hold, eller hvis i er en gruppe som ønsker at træne sammen.
        </p>
-              <button id="laes">Kontakt</button>
+            <a href="/kontakt/"><button id="laes">Kontakt</button></a>  
      </div>
         </div>
 
