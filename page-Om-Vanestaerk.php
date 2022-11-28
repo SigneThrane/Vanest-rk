@@ -63,9 +63,9 @@ get_header(); ?>
 </div>
 
             <div class="colcoral">
-                <h3>"Hvis du mestrer vanen, så kommer målet til dig. <br>
+                <h1 id="quote">"Hvis du mestrer vanen, så kommer målet til dig. <br>
                     Men når du målet, uden at mestre vanen, så vil du <br>
-                    miste målet igen på sigt." - Sandra Lykke</h3>
+                    miste målet igen på sigt." - Sandra Lykke</h1>
             </div>
 
 <div class="row">
@@ -160,7 +160,8 @@ get_header(); ?>
                     </p>
                 </div>
        </div> 
-
+       <br>
+        <br>
        <div class="row" id="personale2">
         <div class="col-4">
         <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
@@ -182,7 +183,8 @@ get_header(); ?>
                             </p>
                      </div>
        </div>
-
+       <br>
+       <br>
        <div class="row" id="personale3">
         <div class="col-4">
         <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">

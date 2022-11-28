@@ -8,6 +8,7 @@ Updated: 2022-11-22 16:52:55
 
 @import url('https://fonts.cdnfonts.com/css/lemonmilk');
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;800&family=Quicksand:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,700&display=swap');
 
 /*{}*/
 
@@ -61,14 +62,14 @@ body{
     
       #icon{
         position: absolute;
-    right: 32%;
+    right: 34%;
     top: 24%;
     font-size: xx-large;
       }
 
       #icon1{
         position: absolute;
-        right: 35%;
+        right: 37%;
         top: 24%;
         font-size: xx-large; 
       }
@@ -261,14 +262,22 @@ align-items: center;
      .colcoral{
         background-color:  #FFE8D6;
         text-align: center;
+        height: 250px;
+        padding: 6%;
+    }
+
+    #quote{
+        color: #CB997E;
+        font-family: lora;
     }
 
     #Corallinjeboks{
         background-color:  #CB997E;
+        padding: 3%;
     }
 
     #venstreboks{
-        text-align: center;
+        padding: 3%;
     }
 
     .personale{
@@ -279,19 +288,23 @@ align-items: center;
         background-color:  #B7B7A4;
         border-radius: 30px;
         text-align: center;
+        padding: 3%;
     }
 
     #personale2{
         background-color:  #CB997E;
         border-radius: 30px;
         text-align: center;
+        padding: 3%;
     }
 
     #personale3{
         background-color:  #747D6B;
         border-radius: 30px;
         text-align: center;
+        padding: 3%;
     }
+
 
      /*Forløb og priser*/
      .colforløb{
