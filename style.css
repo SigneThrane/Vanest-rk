@@ -306,6 +306,4 @@ text-align: center;
         background-color: #B7B7A4;
     }
     
-    table:not( .has-background ) tbody tr:nth-child(2n) td, fieldset, fieldset legend {
-        background-color: #pink;
-    }
+  
