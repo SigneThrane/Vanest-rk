@@ -17,10 +17,10 @@ get_header(); ?>
 
 <div class="container">
         <div class="row" id="velkommen">
-        <div class="col-md-4">
-        <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
+        <div class="col-4">
+        <img src="https://dummyimage.com/600x800/B7B7A4/F8F4EB" alt="">
         </div>
-        <div class="col-md-8" id="col-text">
+        <div class="col-8" id="col-text">
              <div>
                   <br>
                   <hr class="rounded"><h1>KONTAKT</h1><hr>
@@ -30,14 +30,16 @@ get_header(); ?>
                       <div id="banner">
                             <p>+45 28 45 64 43</p>
                             <p>@Sandras_Lykke</p>
+                            </div>
                      </div>
                      </div>
-                    <div>
-                          <h1>KONTAKTFORMULAR</h1>
+                    <div id=kontaktform1>
+                    <hr class="rounded"><h2>KONTAKT</h2><hr><br>
+                    <div id=kontaktform2>
                           <?php echo apply_shortcodes( '[contact-form-7 id="56" title="Contact form 1"]' ); ?>
 
                     </div>
-     </div>
+                    </div>
         </div>
 
 
