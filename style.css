@@ -326,3 +326,7 @@ align-items: center;
         background-color: #747D6B;
     }
     
+    a:focus,
+    .focus a {
+    outline: none !important;
+    }
