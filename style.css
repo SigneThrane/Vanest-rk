@@ -234,6 +234,18 @@ text-align: center;
     text-align: center;
     }
 
+#kontaktform1 {
+    text-align: center;
+    background-color: #747D6B;
+    width: 100%;
+}
+#kontaktform1 {
+display: flex;
+align-items: center;
+    background-color: #747D6B;
+    width: 100%;
+}
+
 
  /*Shop*/
 
@@ -304,22 +316,16 @@ text-align: center;
     table:not( .has-background ) tbody tr:nth-child(2n) td, fieldset, fieldset legend {
         background-color: #B7B7A4;
     }
+
+    hr.rounded {
+        background-color: #747D6B;
+    }
+
+    hr {
+        background-color: #747D6B;
+    }
     
     a:focus,
     .focus a {
     outline: none !important;
     }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
