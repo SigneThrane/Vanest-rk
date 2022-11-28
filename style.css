@@ -51,7 +51,7 @@ body{
 
 #book{
     position: absolute;
-    right: 25%;
+    right: 13%;
     top: 25%;
     font-family: 'Lemon/Milk light', sans-serif;
   }
@@ -67,14 +67,14 @@ body{
     
       #icon{
         position: absolute;
-    right: 34%;
+    right: 22%;
     top: 24%;
     font-size: xx-large;
       }
 
       #icon1{
         position: absolute;
-        right: 37%;
+        right: 25%;
         top: 24%;
         font-size: xx-large; 
       }
@@ -96,6 +96,7 @@ body{
 .grønboks {
     background-color: #B7B7A4;
     padding: 3rem;
+    width: 101.5%;
  }
      
 #velkommen {
@@ -183,7 +184,7 @@ bdi{
  }
 
  p{
-    font-family: quicksand, sans-serif;
+    font-family: 'quicksand', sans-serif;
  }
 
 
@@ -267,9 +268,15 @@ align-items: center;
      .colcoral{
         background-color:  #FFE8D6;
         text-align: center;
-        height: 250px;
+        height: 260%;
         padding: 6%;
-        width: 100%;
+        width: 101.5%;
+        font-family: quicksand, sans-serif;
+    }
+
+    #personaletekst{
+        color: #FFE8D6;
+        font-family: 'Lemon/Milk light', sans-serif;
     }
 
     #quote{
@@ -320,6 +327,7 @@ align-items: center;
       #beigeboks {
         margin-bottom: 3rem;
         background-color: #FFE8D6; 
+        padding: 4%;
     }
 
     table:not( .has-background ) th {
@@ -349,5 +357,17 @@ align-items: center;
     outline: none !important;
     }
 
+      /*Billeder*/
+      #hero{
+    border-radius: 10%;
+    height: 95%;
+    width: 100%;
+        }
+        #hero2{
+      border-radius: 10%;
+      height: 60%;
+      width: 120%;
+          }
    
+    
     

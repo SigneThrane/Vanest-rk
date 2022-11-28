@@ -20,7 +20,7 @@ get_header(); ?>
          <br>
          <br>
          <br>
-        <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
+         <img id="hero2" src="<?php the_field('hero_om_vanestaerk'); ?>" alt="" />
         </div>
         <div class="col-md-8" id="col-text">
          <br>
@@ -58,7 +58,11 @@ get_header(); ?>
       <br>
       Vane|Stærk er “et fællesskab man ikke har lyst til at gå glip af” 
        </p>   
+       
 </div>
+<div class="col-md-4">
+<img src="<?php the_field('illustration_2'); ?>" alt="" />
+        </div>
 </div>
 </div>
 
@@ -70,36 +74,42 @@ get_header(); ?>
 
 <div class="row">
         <div class="col-6"id="venstreboks">
-            <p>I takt med min faglige og personlige <br>
-            udvikling, og især som følge af et <br>
-            større indblik i psykologien bag  <br>
-            spiseadfærd og vaneændring, har jeg <br>
-            følt et behov for at bryde ud af de <br>
+            <p>I takt med min faglige og personlige 
+        udvikling, og især som følge af et <br>
+            større indblik i psykologien bag  
+            spiseadfærd og vaneændring, <br> har jeg 
+            følt et behov for at bryde ud af de 
             kommercielle rammer. <br><br>
-            For det er ikke altid at et stort <br>
-            fitnesscenter, skaber de bedste  <br>
-            rammer for den mentale rejse, som en <br>
+
+            For det er ikke altid at et stort 
+            fitnesscenter, skaber de bedste  
+            rammer for den mentale rejse, som en 
             livsstilsændring jo også er. <br>
-            Tværtimod kan det være en barriere  <br>
+            Tværtimod kan det være en barriere  
             for overhovedet at komme i gang. <br><br>
-            Derfor opstod motivationen for at <br>
+            
+            Derfor opstod motivationen for at 
             skabe Vane|Stærk studiet også i mig. <br>
-            Et træningsstudie hvor der er plads til  <br>
-            at du kan være dig selv, helt uden at <br>
-            skulle forholde dig til andre. Det mener <br>
-            jeg giver de bedste rammer, for  <br>
-            arbejdet med vaneændring. Det er min <br>
+            Et træningsstudie hvor der er plads til  
+            at du kan være dig selv, helt uden at 
+            skulle forholde dig til andre. <br> <br>
+            Det mener 
+            jeg giver de bedste rammer, for  
+            arbejdet med vaneændring. Det er min 
             klare erfaring og overbevisning, at: <br> <br>
-            Hvis du mestrer vanen, så kommer  <br>
-            målet til dig. Men når du målet, uden <br>
-            at mestre vanen, så vil du miste målet <br>
+
+            Hvis du mestrer vanen, så kommer  
+            målet til dig. Men når du målet, uden 
+            at mestre vanen, så vil du miste målet 
             igen på sigt. <br><br>
-            Og i et forløb i Vane|Stærk studiet, vil <br>
-            du derfor arbejde med  <br>
-            vaneændring — og vil med stor <br>
-            sandsynlighed Ikke kun arbejde med  <br>
-            dine trænings- og spisevaner, men  <br>
-            også dykke ned i dine værdier og din <br>
+
+            Og i et forløb i Vane|Stærk studiet, vil 
+            du derfor arbejde med  
+            vaneændring — og vil med stor 
+            sandsynlighed Ikke kun arbejde med <br>  
+            dine trænings- og spisevaner, <br>
+             men  
+            også dykke ned i dine værdier og din 
             indre dialog.
         </p>
         </div>
@@ -130,7 +140,7 @@ get_header(); ?>
                  <b>2012</b>  - Personlig træner i​ FW Ådalsparken (bijob) <br>
                 <b>2010</b>  - Fitness instruktør​ i FW Dannebrogsgade i Aalborg
             </p>
-            <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
+            <img src="<?php the_field('illustration_3'); ?>" alt="" />
             </div>
 </div>
 
@@ -141,11 +151,11 @@ get_header(); ?>
 
        <div class="row" id="personale1">
         <div class="col-4">
-        <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
+        <img src="<?php the_field('personale_1'); ?>" alt="" />
         </div>
         
                 <div class="col-8">
-                    <h1>Sandra Lykke</h1>
+                    <h1 id="personaletekst">Sandra Lykke</h1>
                     <p>
                     Gruppetræning udgør en stor del af min praksis, da jeg har oplevet <br>
                     hvordan træningsglæden og motivationen for at ​fastholde  <br>
@@ -164,11 +174,11 @@ get_header(); ?>
         <br>
        <div class="row" id="personale2">
         <div class="col-4">
-        <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
+        <img src="<?php the_field('personale_2'); ?>" alt="" />
         </div>
         
                        <div class="col-8">
-                       <h1>Sara Busch</h1>
+                       <h1 id="personaletekst">Sara Busch</h1>
                             <p>
                             Gruppetræning udgør en stor del af min praksis, da jeg har oplevet  <br>
                             hvordan træningsglæden og motivationen for at ​fastholde <br>
@@ -187,11 +197,11 @@ get_header(); ?>
        <br>
        <div class="row" id="personale3">
         <div class="col-4">
-        <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
+        <img src="<?php the_field('personale_3'); ?>" alt="" />
         </div>
         
                      <div class="col-8">
-                     <h1>Kristiane Jensen</h1>
+                     <h1 id="personaletekst">Kristiane Jensen</h1>
                      <p>
                             Gruppetræning udgør en stor del af min praksis, da jeg har oplevet  <br>
                             hvordan træningsglæden og motivationen for at ​fastholde <br>

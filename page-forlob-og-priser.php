@@ -56,11 +56,15 @@ get_header(); ?>
       Når du er i et personlig træningsforløb, er det kun dig og mig, som er i studiet <br>
       under sessionerne.</p>
 </div>
+<div class="col-md-4">
+<img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
+        </div>
 </div>
 </div>
 
 
                      <div class="colforløb">
+                            <br>
                             <h2>FORLØBSTYPER</h2>
                             <p> Vane|Stærk studiet tilbydes du forløb mellem 8 og 52 sessioner eller som abonnementsløsning.
                                    <br> <br>
@@ -177,6 +181,9 @@ get_header(); ?>
               smidighed og udholdenhed.
               </p>
 </div>
+<div class="col-md-4">
+<img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
+        </div>
 </div>
 </div>
 

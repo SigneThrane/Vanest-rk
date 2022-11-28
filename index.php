@@ -17,7 +17,7 @@ get_header(); ?>
         <div class="container">
         <div class="row" id="velkommen">
         <div class="col-md-4">
-        <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
+        <img id="hero" src="<?php the_field('hero_forside'); ?>" alt="" />
         </div>
         <div class="col-md-8" id="col-text">
         <hr class="rounded"><h1>Velkommen til Vane|Stærk, vi er glade for at se dig</h1><hr class="rounded">
@@ -41,7 +41,7 @@ Vi mødes hver tirsdag kl 19.15 og torsdag kl 18, opstart uge 47 til og med uge 
   <a href="/booking/"><button id="laes">Book her</button></a>
 </div>
         <div class="col-md-4">
-        <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="vanestærk" id="aktimg">
+        <img src="<?php the_field('illustration_1'); ?>" alt="" />
         </div>
         </div>
         </div>
