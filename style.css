@@ -306,4 +306,7 @@ text-align: center;
         background-color: #B7B7A4;
     }
     
-  
+    a:focus,
+    .focus a {
+    outline: none !important;
+    }
