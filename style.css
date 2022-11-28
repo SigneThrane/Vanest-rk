@@ -4,7 +4,6 @@ Template: storefront
 Author: Signe Thrane
 Version: 4.2.0.1669135975
 Updated: 2022-11-22 16:52:55
-
 */
 
 @import url('https://fonts.cdnfonts.com/css/lemonmilk');
@@ -75,11 +74,11 @@ body{
       }
       
       a:hover .fa-facebook{
-        color: #3b5998;
+        color: #CB997E;
       }
     
       a:hover .fa-instagram{
-        color: #f14843;
+        color: #CB997E;
       }
 
 /*Forside*/
@@ -222,35 +221,17 @@ div.storefront-breadcrumb{
 
 .col4{
    background-color: #F8F4EB;
-    padding-left:40%;
     text-align: center;
     }
 
 .col5{
 background-color: #FFE8D6;
-padding-left:40%;
 text-align: center;
 }
 
-.col6{
-    background-color: #B7B7A4;
-    padding-left:40%;
+#banner{
+    background-color: #FFE8D6;
     text-align: center;
-    }
-
-.overlay{
-background-color: #B7B7A4;
-height: 30%;
-padding-bottom: -100px;
-}
-
-.kontakt{
-position: relative;
-width: 40%;
-top: -430px;
-display: flex;
-justify-content: center;
-align-items: center
     }
 
 
@@ -269,5 +250,76 @@ align-items: center
         background-color:  #FFE8D6;
         text-align: center;
     }
-    
 
+    #Corallinjeboks{
+        background-color:  #CB997E;
+    }
+
+    #venstreboks{
+        text-align: center;
+    }
+
+    .personale{
+        text-align: center;
+    } 
+
+    #personale1{
+        background-color:  #B7B7A4;
+        border-radius: 30px;
+        text-align: center;
+    }
+
+    #personale2{
+        background-color:  #CB997E;
+        border-radius: 30px;
+        text-align: center;
+    }
+
+    #personale3{
+        background-color:  #747D6B;
+        border-radius: 30px;
+        text-align: center;
+    }
+
+     /*Forløb og priser*/
+     .colforløb{
+        background-color:  #F8F4EB;
+    }
+
+      #beigeboks {
+        margin-bottom: 3rem;
+        background-color: #FFE8D6; 
+    }
+
+    table:not( .has-background ) th {
+        background-color: #747D6B;
+        color: black;
+    }
+
+    table:not( .has-background ) tbody td {
+        background-color: #B7B7A4;
+        color: black;
+    } 
+ 
+    table:not( .has-background ) tbody tr:nth-child(2n) td, fieldset, fieldset legend {
+        background-color: #B7B7A4;
+    }
+    
+    a:focus,
+    .focus a {
+    outline: none !important;
+    }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
