@@ -359,15 +359,36 @@ align-items: center;
 
       /*Billeder*/
       #hero{
-    border-radius: 10%;
-    height: 95%;
-    width: 100%;
+    height: 100%;
         }
+      
+        #illustration{
+            height: 100%;
+                }
+
         #hero2{
-      border-radius: 10%;
-      height: 60%;
-      width: 120%;
-          }
-   
+            height: 80%;
+                }
+
+#illustrationom
+{
+    height: 95%;
+        }
+
+        #illustration3{
+            height: 60%;
+           margin-left: 12%;
+                }
+
+#personaleb{
+    border-radius: 30%;
+    }
+
+#illustrationf{
+   margin-left: 16%;
+        }
     
+img{
+border-radius: 10%;
+}
     

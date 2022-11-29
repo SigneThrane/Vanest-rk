@@ -20,7 +20,7 @@ get_header(); ?>
         <br>
          <br>
          <br>
-        <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
+         <img src="<?php the_field('heropriser'); ?>" alt="" />
         </div>
         <div class="col-md-8" id="col-text">
         <br>
@@ -57,7 +57,7 @@ get_header(); ?>
       under sessionerne.</p>
 </div>
 <div class="col-md-4">
-<img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
+<img id="illustrationom" src="<?php the_field('illustration_5'); ?>" alt="" />
         </div>
 </div>
 </div>
@@ -145,7 +145,7 @@ get_header(); ?>
         <br>
          <br>
          <br>
-        <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
+         <img src="<?php the_field('billedevane'); ?>" alt="" />
         </div>
         <div class="col-md-8" id="col-text">
         <br>
@@ -182,7 +182,7 @@ get_header(); ?>
               </p>
 </div>
 <div class="col-md-4">
-<img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
+<img  id="illustrationf" src="<?php the_field('illustration_6'); ?>" alt="" />
         </div>
 </div>
 </div>
@@ -229,57 +229,33 @@ get_header(); ?>
 
 <table>
         <tr>
-              <th>Mandag</th>
-               <td>Stærke tøser: 16:30 <br> Fuld booket <br>(Sandra Lykke)</td>
-              <td>Stærke tøser: 18:00 <br>
-                     Ledig plads (7/8) <br>
-                     (Sandra Lykke)</td>
-               <td>Stærke tøser:19:15 <br>
-              Fuld booket <br>
-              (Sandra Lykke) <br></td>
-               <td></td>
+              <th><?php the_field('kolonne_1'); ?></th>
+               <td><?php the_field('kolonne_2'); ?></td>
+              <td><?php the_field('kolonne_3'); ?></td>
+               <td><?php the_field('kolonne_4'); ?></td>
+               <td><?php the_field('kolonne_5'); ?></td>
        </tr>
                      <tr>
-                      <th>Tirsdag</th>
-                      <td>Stærke tøser: 9:00 <br>
-                     4 ledige pladser (4/8) <br>
-                     (Sandra Lykke)</td>
-                      <td>Stærke tøser: 16:30 <br>
-                     Nyt hold uge 40 <br>
-                     (Kristiane Schutt)</td>
-                      <td>Stærke tøser: 18:00 <br>
-                     Nyt hold uge 40 <br>
-                     (Kristiane Schutt)</td>
-                     <td></td>
+                      <th><?php the_field('kolonne_6'); ?></th>
+                      <td><?php the_field('kolonne_7'); ?></td>
+                      <td><?php the_field('kolonne_8'); ?></td>
+                      <td><?php the_field('kolonne_9'); ?></td>
+                     <td><?php the_field('kolonne_10'); ?></td>
                      </tr>  
                      </tr>
                             <tr>
-                             <th>Onsdag</th>
-                             <td>Stærke tøser: 16:30 <br>
-                            Fuld booket <br>
-                            (Sandra Lykke)</td>
-                             <td>Stærke tøser: 18:00 <br>
-                            3 ledige pladser (5/8) <br>
-                            (Sara Bush)</td>
-                             <td>Stærke tøser: 19:15 <br>
-                                   Fuld booket <br>
-                                   (Sara Bush)</td>
-                             <td></td>
+                             <th><?php the_field('kolonne_11'); ?></th>
+                             <td><?php the_field('kolonne_12'); ?></td>
+                             <td><?php the_field('kolonne_13'); ?></td>
+                             <td><?php the_field('kolonne_14'); ?></td>
+                             <td><?php the_field('kolonne_15'); ?></td>
                             </tr>
                                     <tr>
-                                     <th>Torsdag</th>
-                                     <td>Stærke tøser: 9:30 <br>
-                                   3 ledige pladser (5/8) <br>
-                                   (Sandra Lykke)</td>
-                                     <td>Stærke tøser: 10:45 <br>
-                                   5 ledige pladser (3/8) <br>
-                                   (Sandra Lykke)</td>
-                                      <td>Stærke tøser: 18:30 <br> 
-                                          6 ledige pladser (2/8) <br>
-                                          (Sara Bush)</td>
-                                      <td>Stærke tøser: 19:15 <br>
-                                   2 ledige pladser (6/8) <br>
-                                   (Sara Bush)</td>
+                                     <th><?php the_field('kolonne_16'); ?></th>
+                                     <td><?php the_field('kolonne_17'); ?></td>
+                                     <td><?php the_field('kolonne_18'); ?></td>
+                                      <td><?php the_field('kolonne_19'); ?></td>
+                                      <td><?php the_field('kolonne_20'); ?></td>
                                     </tr>
 </table>
 
@@ -289,7 +265,7 @@ get_header(); ?>
         <br>
          <br>
          <br>
-        <img src="https://dummyimage.com/700x400/#FFE8D/0ffe8e.jpg&text=VaneSt%C3%A6rk" alt="">
+         <img src="<?php the_field('billede_3'); ?>" alt="" />
         </div>
         <div class="col-md-8" id="col-text">
         <br>

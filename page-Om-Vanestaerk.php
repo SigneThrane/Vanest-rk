@@ -61,7 +61,7 @@ get_header(); ?>
        
 </div>
 <div class="col-md-4">
-<img src="<?php the_field('illustration_2'); ?>" alt="" />
+<img id="illustrationom" src="<?php the_field('illustration_2'); ?>" alt="" />
         </div>
 </div>
 </div>
@@ -123,7 +123,7 @@ get_header(); ?>
                 <b>2014</b> - Kostvejleder <br>
                 <b>2012</b>  ​- Personlig træner <br>
                 <b>2​010 </b>  - Fitness instruktør <br> <br>
-            
+             
                 <b>MINI KURSER</b>
            
                 <b>2021 </b> - Graviditet og efte​rfødsel v. Kristian Bradsted <br>
@@ -140,7 +140,7 @@ get_header(); ?>
                  <b>2012</b>  - Personlig træner i​ FW Ådalsparken (bijob) <br>
                 <b>2010</b>  - Fitness instruktør​ i FW Dannebrogsgade i Aalborg
             </p>
-            <img src="<?php the_field('illustration_3'); ?>" alt="" />
+            <img id="illustration3" src="<?php the_field('illustration_3'); ?>" alt="" />
             </div>
 </div>
 
@@ -151,7 +151,7 @@ get_header(); ?>
 
        <div class="row" id="personale1">
         <div class="col-4">
-        <img src="<?php the_field('personale_1'); ?>" alt="" />
+        <img id="personaleb" src="<?php the_field('personale_1'); ?>" alt="" />
         </div>
         
                 <div class="col-8">
@@ -174,7 +174,7 @@ get_header(); ?>
         <br>
        <div class="row" id="personale2">
         <div class="col-4">
-        <img src="<?php the_field('personale_2'); ?>" alt="" />
+        <img id="personaleb" src="<?php the_field('personale_2'); ?>" alt="" />
         </div>
         
                        <div class="col-8">
@@ -197,7 +197,7 @@ get_header(); ?>
        <br>
        <div class="row" id="personale3">
         <div class="col-4">
-        <img src="<?php the_field('personale_3'); ?>" alt="" />
+        <img id="personaleb" src="<?php the_field('personale_3'); ?>" alt="" />
         </div>
         
                      <div class="col-8">
