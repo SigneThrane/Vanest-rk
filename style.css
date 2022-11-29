@@ -56,6 +56,10 @@ body{
     font-family: 'Lemon/Milk light', sans-serif;
   }
 
+  a:hover #book{
+   background-color: #747D6B;
+  }
+
   .site-header .site-search {
     display: none;
     }
@@ -80,11 +84,11 @@ body{
       }
       
       a:hover .fa-facebook{
-        color: #CB997E;
+        color: #FFE8D6;
       }
     
       a:hover .fa-instagram{
-        color: #CB997E;
+        color: #FFE8D6;
       }
 
 /*Forside*/
@@ -111,6 +115,17 @@ body{
 
 
 /*Buttons*/
+.add_to_cart_button:hover {
+    background-color: #747D6B; 
+  }
+
+a:hover #laes{
+    background-color: #747D6B;
+   }
+
+.main-navigation ul li:hover > a {
+    color: #B7B7A4 !important;
+}
 
 #laes{
     font-family: 'Lemon/Milk light', sans-serif;
@@ -391,4 +406,9 @@ align-items: center;
 img{
 border-radius: 10%;
 }
-    
+
+a{
+   color: black;
+    }
+
+

@@ -29,10 +29,6 @@ get_header(); ?>
         <hr class="rounded"><h1>FORLØB OG PRISER</h1><hr class="rounded">
         <p>I Vane|Stærk studiet tilbydes der både 1:1 personlig <br>træning, coaching og gruppetræning. <br>
         Når du er i et forløb hos Vane|Stærk får du tilbud på <br> adgang til events, foredrag, temaaftener og workshops. <br><br>
-        Klik herunder for at læse om: <br>
-      </p>
-     <a href="#"><p>Individuelt forløb</p></a> 
-       <a href="#"><p>Gruppetræning</p></a>   
 
      </div>
         </div>
@@ -40,7 +36,7 @@ get_header(); ?>
         <div class="grønboks">
         <div class="row">
         <div class="col-md-8">
-        <h2 >INDIVIDUELT FORLØB</h2>
+      <a id="individueltforlob"><h2>INDIVIDUELT FORLØB</h2></a> 
        <p>I et individuelt forløb modtager du privat træning og/eller coaching i <br>
        Vane|Stærk studiet. <br>
        Forløbet tager udgangspunkt i dine ønsker, og kan involvere både træning,  <br>
