@@ -73,7 +73,7 @@ get_header(); ?>
             </div>
 
 <div class="row">
-        <div class="col-6"id="venstreboks">
+        <div class="col-md-6"id="venstreboks">
             <p>I takt med min faglige og personlige 
         udvikling, og især som følge af et <br>
             større indblik i psykologien bag  
@@ -114,7 +114,7 @@ get_header(); ?>
         </p>
         </div>
 
-            <div class="col-6" id="Corallinjeboks">
+            <div class="col-md-6" id="Corallinjeboks">
         
             <p>
             <b>RELEVANT UDDANNELSE</b> <br>

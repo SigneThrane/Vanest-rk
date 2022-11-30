@@ -33,9 +33,9 @@ get_header(); ?>
                             </div>
                      </div>
                      </div>
-                    <div id=kontaktform1>
-                    <hr class="rounded"><h2>KONTAKT</h2><hr><br>
-                    <div id=kontaktform2>
+                    <div id="kontaktform1">
+                    <div><hr class="rounded"><h2>KONTAKT</h2><hr><br></div>
+                    <div id="kontaktform2">
                           <?php echo apply_shortcodes( '[contact-form-7 id="56" title="Contact form 1"]' ); ?>
 
                     </div>
