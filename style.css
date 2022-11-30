@@ -259,14 +259,12 @@ text-align: center;
 #kontaktform1 {
     text-align: center;
     background-color: #747D6B;
-    width: 100%;
+
 }
 
 #kontaktform2 {
-display: flex;
-align-items: center;
+
     background-color: #747D6B;
-    width: 100%;
 }
 
 
@@ -404,6 +402,7 @@ align-items: center;
    margin-left: 16%;
         }
     
+<<<<<<< Updated upstream
 img{
 border-radius: 10%;
 }
@@ -413,3 +412,8 @@ a{
     }
 
 
+=======
+    .container {
+        margin:0;
+    }
+>>>>>>> Stashed changes
