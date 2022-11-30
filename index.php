@@ -41,7 +41,7 @@ Vi mødes hver tirsdag kl 19.15 og torsdag kl 18, opstart uge 47 til og med uge 
   <a href="/booking/"><button id="laes">Book her</button></a>
 </div>
         <div class="col-md-4">
-        <img src="<?php the_field('illustration_1'); ?>" alt="" />
+        <img id="illustration" src="<?php the_field('illustration_1'); ?>" alt="" />
         </div>
         </div>
         </div>

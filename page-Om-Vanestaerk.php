@@ -61,7 +61,7 @@ get_header(); ?>
        
 </div>
 <div class="col-md-4">
-<img src="<?php the_field('illustration_2'); ?>" alt="" />
+<img id="illustrationom" src="<?php the_field('illustration_2'); ?>" alt="" />
         </div>
 </div>
 </div>
@@ -72,8 +72,15 @@ get_header(); ?>
                     miste målet igen på sigt." - Sandra Lykke</h1>
             </div>
 
+<<<<<<< HEAD
 <div class="row">
         <div class="col-md-6"id="venstreboks">
+=======
+
+ <div class="biografi">
+ <div class="row">
+        <div class="col-6"id="venstreboks">
+>>>>>>> 9a7aeb7bea3a188a167f2e3a7c2b729141f35f4e
             <p>I takt med min faglige og personlige 
         udvikling, og især som følge af et <br>
             større indblik i psykologien bag  
@@ -123,7 +130,7 @@ get_header(); ?>
                 <b>2014</b> - Kostvejleder <br>
                 <b>2012</b>  ​- Personlig træner <br>
                 <b>2​010 </b>  - Fitness instruktør <br> <br>
-            
+             
                 <b>MINI KURSER</b>
            
                 <b>2021 </b> - Graviditet og efte​rfødsel v. Kristian Bradsted <br>
@@ -140,9 +147,12 @@ get_header(); ?>
                  <b>2012</b>  - Personlig træner i​ FW Ådalsparken (bijob) <br>
                 <b>2010</b>  - Fitness instruktør​ i FW Dannebrogsgade i Aalborg
             </p>
-            <img src="<?php the_field('illustration_3'); ?>" alt="" />
+            <img id="illustration3" src="<?php the_field('illustration_3'); ?>" alt="" />
             </div>
 </div>
+
+ </div>           
+
 
         <div class="personale">
             <hr class="rounded"><h1>OM OS <br>PERSONERNE HOS VANESTÆRK</h1><hr class="rounded">
@@ -151,7 +161,7 @@ get_header(); ?>
 
        <div class="row" id="personale1">
         <div class="col-4">
-        <img src="<?php the_field('personale_1'); ?>" alt="" />
+        <img id="personaleb" src="<?php the_field('personale_1'); ?>" alt="" />
         </div>
         
                 <div class="col-8">
@@ -174,7 +184,7 @@ get_header(); ?>
         <br>
        <div class="row" id="personale2">
         <div class="col-4">
-        <img src="<?php the_field('personale_2'); ?>" alt="" />
+        <img id="personaleb" src="<?php the_field('personale_2'); ?>" alt="" />
         </div>
         
                        <div class="col-8">
@@ -197,7 +207,7 @@ get_header(); ?>
        <br>
        <div class="row" id="personale3">
         <div class="col-4">
-        <img src="<?php the_field('personale_3'); ?>" alt="" />
+        <img id="personaleb" src="<?php the_field('personale_3'); ?>" alt="" />
         </div>
         
                      <div class="col-8">

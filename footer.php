@@ -44,17 +44,12 @@ CVR-nr: 35975942</p>
 
 Følg os på sociale medier og modtag løbende opdateringer, nyheder, samt få mulighed for at deltage i konkurrencer <br> <br> 
 
-<a href="hhttps://www.facebook.com/PTSandraLykke/" class="me-4 text-reset"> 
+<a id="icon2" href="https://www.facebook.com/PTSandraLykke/"><font color="#000000"><i class="fab fa-facebook"></i></font></a>
 
-<i class="fab fa-facebook-f fa-4x"></i> 
 
-</a> 
+<a id="icon3" href="https://www.instagram.com/vane.staerk/?hl=da"><font color="#000000"><i class="fab fa-instagram"></i></font></a>
 
-<a href="https://www.instagram.com/vane.staerk/?hl=da" class="me-4 text-reset"> 
 
-<i class="fab fa-instagram fa-4x"></i> 
-
-</a> 
 
 </p> 
     </div>
