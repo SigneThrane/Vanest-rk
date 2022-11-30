@@ -72,7 +72,9 @@ get_header(); ?>
                     miste målet igen på sigt." - Sandra Lykke</h1>
             </div>
 
-<div class="row">
+
+ <div class="biografi">
+ <div class="row">
         <div class="col-6"id="venstreboks">
             <p>I takt med min faglige og personlige 
         udvikling, og især som følge af et <br>
@@ -143,6 +145,9 @@ get_header(); ?>
             <img id="illustration3" src="<?php the_field('illustration_3'); ?>" alt="" />
             </div>
 </div>
+
+ </div>           
+
 
         <div class="personale">
             <hr class="rounded"><h1>OM OS <br>PERSONERNE HOS VANESTÆRK</h1><hr class="rounded">

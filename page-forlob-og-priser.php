@@ -72,35 +72,40 @@ get_header(); ?>
 
 <table>
         <tr>
-              <th>Mål</th>
-               <th>Antal sessioner</th>
-              <th>Kontant pris</th>
-               <th>Pr. Session</th>
+              <thead>
+              <th scope="col">Mål</th>
+               <th scope="col">Antal sessioner</th>
+              <th scope="col">Kontant pris</th>
+               <th scope="col">Pr. Session</th>
+              </thead>
        </tr>
-                     <tr>
-                      <td>Kickstart</td>
+       <tbody>
+       <tr>
+                      <td scope="row">Kickstart</td>
                       <td>8 sessioner</td>
                       <td>5.200</td>
                       <td>650</td>
                      </tr>
                             <tr>
-                             <td>Vaneændring</td>
+                             <td scope="row">Vaneændring</td>
                              <td>16 sessioner</td>
                              <td>10,000</td>
                              <td>625</td>
                             </tr>
                                     <tr>
-                                     <td>Vaneændring og fastholdelse</td>
+                                     <td scope="row">Vaneændring og fastholdelse</td>
                                      <td>32 sessioner</td>
                                      <td>19.200</td>
                                       <td>600</td>
                                     </tr>
                                                   <tr>
-                                                   <td>Vaneændring og fastholdelse</td>
+                                                   <td scope="row">Vaneændring og fastholdelse</td>
                                                   <td>52 sessioner</td>
                                                    <td>29.900</td>
                                                   <td>575</td>
                                                    </tr>
+       </tbody>
+                    
 </table>
 
 <div class="colforløb">
@@ -114,16 +119,22 @@ get_header(); ?>
                      </div>
 
 <table>
-        <tr>
-              <th>Abonnementstype</th>
-               <th>1 session/uge</th>
-              <th>2 session/uge</th>
+   <thead>
+   <tr>
+              <th scope="col">Abonnementstype</th>
+               <th scope="col">1 session/uge</th>
+              <th scope="col">2 session/uge</th>
        </tr>
-                     <tr>
-                      <td>Månedlig ydelse</td>
+   </thead>
+   <tbody>
+   <tr>
+                      <td scope="row">Månedlig ydelse</td>
                       <td>Forventeligt 2.400</td>
                       <td>Forventeligt 4.800</td>
                      </tr>
+   </tbody>
+      
+                   
                            
 </table>
 
@@ -192,16 +203,23 @@ get_header(); ?>
 </div>
 
 <table>
-        <tr>
-              <th>Abonnementstype</th>
-               <th>1 session/uge</th>
-              <th>2 session/uge</th>
+       <thead>
+       <tr>
+              <th scope="col">Abonnementstype</th>
+               <th scope="col">1 session/uge</th>
+              <th scope="col">2 session/uge</th>
        </tr>
-                     <tr>
-                      <td>Månedlig ydelse</td>
+       </thead>
+
+       <tbody>
+       <tr>
+                      <td scope="row">Månedlig ydelse</td>
                       <td>275</td>
                       <td>500</td>
-                     </tr>                       
+                     </tr> 
+       </tbody>
+      
+                                         
 </table>
 
 <div class="colforløb">
