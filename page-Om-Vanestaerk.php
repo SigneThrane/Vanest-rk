@@ -72,15 +72,10 @@ get_header(); ?>
                     miste målet igen på sigt." - Sandra Lykke</h1>
             </div>
 
-<<<<<<< HEAD
-<div class="row">
-        <div class="col-md-6"id="venstreboks">
-=======
 
  <div class="biografi">
  <div class="row">
         <div class="col-6"id="venstreboks">
->>>>>>> 9a7aeb7bea3a188a167f2e3a7c2b729141f35f4e
             <p>I takt med min faglige og personlige 
         udvikling, og især som følge af et <br>
             større indblik i psykologien bag  

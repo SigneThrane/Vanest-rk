@@ -54,7 +54,7 @@ Vi mødes hver tirsdag kl 19.15 og torsdag kl 18, opstart uge 47 til og med uge 
 
   <div class="testimonialsboks">
     <br>
-<h2>Det siger vores kunder om vanestærk</h2>
+<h2>Det siger vores kunder om vanestærk:</h2>
 <?php echo do_shortcode('[sp_testimonial id="160"]');?>
   </div>
 
