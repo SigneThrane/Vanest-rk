@@ -51,9 +51,13 @@ Vi mødes hver tirsdag kl 19.15 og torsdag kl 18, opstart uge 47 til og med uge 
  <?php echo do_shortcode('[sliders_pack id="170"]'); ?></div>
  
   <!-- #Testimony -->   
-  <br><br> 
+
+  <div class="testimonialsboks">
+    <br>
 <h2>Det siger vores kunder om vanestærk</h2>
-<?php echo do_shortcode('[sp_testimonial id="160"]');?></div>
+<?php echo do_shortcode('[sp_testimonial id="160"]');?>
+  </div>
+
 <!-- #main -->
 	</div><!-- #primary -->
 
