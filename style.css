@@ -270,13 +270,13 @@ text-align: center;
 
 #kontaktform1 {
     text-align: center;
-    background-color: #747D6B;
+    background-color: #B7B7A4;
 
 }
 
 #kontaktform2 {
 
-    background-color: #747D6B;
+    background-color: #B7B7A4;
 }
 
 
@@ -393,12 +393,13 @@ text-align: center;
                 }
 
         #hero2{
-            height: 80%;
+            height: 70%;
                 }
 
 #illustrationom
 {
-    height: 70%;
+    margin-top: 10%;
+    height: 80%;
         }
 
         #illustrationk{
@@ -412,8 +413,12 @@ text-align: center;
     }
 
 #illustrationf{
-   margin-left: 16%;
+   margin-right: 30%;
         }
+        
+        #herof{
+           height: 70%;
+                 }
     
 img{
 border-radius: 10%;
@@ -426,4 +431,9 @@ a{
 
     .container {
         margin:0;
+    }
+
+    #kontakticon{
+font-size: larger;
+color: #CB997E;
     }

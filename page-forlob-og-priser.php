@@ -20,7 +20,7 @@ get_header(); ?>
         <br>
          <br>
          <br>
-         <img src="<?php the_field('heropriser'); ?>" alt="" />
+         <img id="herof" src="<?php the_field('heropriser'); ?>" alt="" />
         </div>
         <div class="col-md-8" id="col-text">
         <br>
