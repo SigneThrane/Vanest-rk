@@ -25,7 +25,9 @@ get_header(); ?>
                   <br> 
                   <hr class="rounded"><h1>KONTAKT</h1><hr>
                 <p>Vil du høre mere om mulighederne for personlig træning, <br> coaching eller gruppeforløb, så er jeg altid klar på en <br> uforpligtende snak over telefon eller i studiet. <br>
-                    Du kan kontakte mig på telefon, instagram eller via <br> kontaktformularen her på siden.</p>
+                    Du kan kontakte mig på telefon, instagram eller via <br> kontaktformularen her på siden. <br>
+                    Skriv til os, hvis du har nogle spørgsmål, vi svarer vi så snart vi kan.
+                  </p>
              </div>
                       <div id="banner">
                             <p><i id="kontakticon" class="fas fa-phone me-3"></i> +45 28 45 64 43</p>

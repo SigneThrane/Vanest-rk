@@ -442,3 +442,12 @@ a{
 font-size: larger;
 color: #CB997E;
     }
+
+    @media only screen and (max-width: 1026px) {
+        #book {
+            display: none;
+        }
+        .social-media {
+            display: none;
+        }
+    }
