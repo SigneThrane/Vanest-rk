@@ -28,8 +28,8 @@ get_header(); ?>
                     Du kan kontakte mig på telefon, instagram eller via <br> kontaktformularen her på siden.</p>
              </div>
                       <div id="banner">
-                            <p>+45 28 45 64 43</p>
-                            <p>@Sandras_Lykke</p>
+                            <p><i id="kontakticon" class="fas fa-phone me-3"></i> +45 28 45 64 43</p>
+                            <p><i id="kontakticon" class="fab fa-instagram"></i> @vane.staerk</p>
                             </div>
                      </div>
                      </div>
