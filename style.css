@@ -421,3 +421,7 @@ a{
     .container {
         margin:0;
     }
+
+    .site-header ul.menu li.current-menu-item > a {
+        color: #B7B7A4;
+    }
