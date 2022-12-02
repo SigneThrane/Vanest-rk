@@ -73,10 +73,10 @@ get_header(); ?>
 <table>
         <tr>
               <thead>
-              <th scope="col">Mål</th>
-               <th scope="col">Antal sessioner</th>
-              <th scope="col">Kontant pris</th>
-               <th scope="col">Pr. Session</th>
+              <th scope="col-md">Mål</th>
+               <th scope="col-md">Antal sessioner</th>
+              <th scope="col-md">Kontant pris</th>
+               <th scope="col-md">Pr. Session</th>
               </thead>
        </tr>
        <tbody>
@@ -121,9 +121,9 @@ get_header(); ?>
 <table>
    <thead>
    <tr>
-              <th scope="col">Abonnementstype</th>
-               <th scope="col">1 session/uge</th>
-              <th scope="col">2 session/uge</th>
+              <th scope="col-md">Abonnementstype</th>
+               <th scope="col-md">1 session/uge</th>
+              <th scope="col-md">2 session/uge</th>
        </tr>
    </thead>
    <tbody>
@@ -152,7 +152,7 @@ get_header(); ?>
         <br>
          <br>
          <br>
-         <img src="<?php the_field('billedevane'); ?>" alt="" />
+         <img id="herof2" src="<?php the_field('billedevane'); ?>" alt="" />
         </div>
         <div class="col-md-8" id="col-text">
         <br>
@@ -205,9 +205,9 @@ get_header(); ?>
 <table>
        <thead>
        <tr>
-              <th scope="col">Abonnementstype</th>
-               <th scope="col">1 session/uge</th>
-              <th scope="col">2 session/uge</th>
+              <th scope="col-md">Abonnementstype</th>
+               <th scope="col-md">1 session/uge</th>
+              <th scope="col-md">2 session/uge</th>
        </tr>
        </thead>
 
