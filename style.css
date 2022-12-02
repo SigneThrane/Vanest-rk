@@ -447,7 +447,6 @@ color: #CB997E;
         #book {
             display: none;
         }
-<<<<<<< HEAD
         #icon {
             display: none;
         }
@@ -460,9 +459,7 @@ color: #CB997E;
     #site-navigation-menu-toggle {
         background-color: #747D6B;
         border-style: none;
-=======
         .social-media {
             display: none;
         }
->>>>>>> 67c7f3e6dacb9d132bf6199ad3eb84af17e31741
     }
