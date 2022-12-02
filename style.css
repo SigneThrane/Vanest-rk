@@ -425,3 +425,8 @@ color: #CB997E;
             display: none;
         }
     }
+
+    #site-navigation-menu-toggle {
+        background-color: #747D6B;
+        border-style: none;
+    }
