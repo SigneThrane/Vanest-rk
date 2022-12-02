@@ -37,7 +37,7 @@ get_header(); ?>
                      </div>
                      <div class="row">
                     <div class="col-6" id="kontaktform1"> 
-                    <img id="illustrationk" src="<?php the_field('illustration'); ?>" alt="" /> </div>
+                    <img width="80%" src="<?php the_field('illustration'); ?>" alt="" /> </div>
                     <div class="col-6" id="kontaktform2">
                     <hr class="rounded"><h2>Skriv til os!</h2><hr><br>
                           <?php echo apply_shortcodes( '[contact-form-7 id="56" title="Contact form 1"]' ); ?>

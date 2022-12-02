@@ -384,45 +384,12 @@ text-align: center;
     }
 
       /*Billeder*/
-      #hero{
-    height: 100%;
-    width: auto;
-        }
-      
-        #illustration{
-            height: 100%;
-            width: auto;
-                }
-
-        #hero2{
-            height: 70%;
-            width: auto;
-                }
 
 #illustrationom
 {
-    margin-top: 10%;
-    height: 80%;
+    margin-top: 25%;
         }
 
-        #illustrationk{
-    margin-top: 15%;
-    margin-left: 15%;
-    height: 70%;
-        }
-
-#personaleb{
-    border-radius: 30%;
-    }
-
-#illustrationf{
-   margin-right: 30%;
-        }
-        
-        #herof{
-           height: 70%;
-                 }
-    
 img{
 border-radius: 10%;
 }

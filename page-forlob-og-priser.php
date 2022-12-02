@@ -20,7 +20,7 @@ get_header(); ?>
         <br>
          <br>
          <br>
-         <img id="herof" src="<?php the_field('heropriser'); ?>" alt="" />
+         <img width="100%" src="<?php the_field('heropriser'); ?>" alt="" />
         </div>
         <div class="col-md-8" id="col-text">
         <br>
@@ -53,7 +53,7 @@ get_header(); ?>
       under sessionerne.</p>
 </div>
 <div class="col-md-4">
-<img id="illustrationom" src="<?php the_field('illustration_5'); ?>" alt="" />
+<img width="100%" id="illustrationom" src="<?php the_field('illustration_5'); ?>" alt="" />
         </div>
 </div>
 </div>
@@ -152,7 +152,7 @@ get_header(); ?>
         <br>
          <br>
          <br>
-         <img id="herof2" src="<?php the_field('billedevane'); ?>" alt="" />
+         <img width="100%" src="<?php the_field('billedevane'); ?>" alt="" />
         </div>
         <div class="col-md-8" id="col-text">
         <br>
@@ -189,7 +189,7 @@ get_header(); ?>
               </p>
 </div>
 <div class="col-md-4">
-<img  id="illustrationf" src="<?php the_field('illustration_6'); ?>" alt="" />
+<img  width="100%" src="<?php the_field('illustration_6'); ?>" alt="" />
         </div>
 </div>
 </div>
