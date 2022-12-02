@@ -20,7 +20,7 @@ get_header(); ?>
          <br>
          <br>
          <br>
-         <img id="hero2" src="<?php the_field('hero_om_vanestaerk'); ?>" alt="" />
+         <img width="100%" src="<?php the_field('hero_om_vanestaerk'); ?>" alt="" />
         </div>
         <div class="col-md-8" id="col-text">
          <br>
@@ -61,7 +61,7 @@ get_header(); ?>
        
 </div>
 <div class="col-md-6">
-<img id="illustrationom" src="<?php the_field('illustration_2'); ?>" alt="" />
+<img width="100%" id="illustrationom" src="<?php the_field('illustration_2'); ?>" alt="" />
         </div>
 </div>
 </div>
@@ -142,7 +142,7 @@ get_header(); ?>
                  <b>2012</b>  - Personlig træner i​ FW Ådalsparken (bijob) <br>
                 <b>2010</b>  - Fitness instruktør​ i FW Dannebrogsgade i Aalborg
             </p>
-            <img id="illustration3" src="<?php the_field('illustration_3'); ?>" alt="" />
+            <img width="100%" src="<?php the_field('illustration_3'); ?>" alt="" />
             </div>
 </div>
 
