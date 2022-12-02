@@ -386,14 +386,17 @@ text-align: center;
       /*Billeder*/
       #hero{
     height: 100%;
+    width: auto;
         }
       
         #illustration{
             height: 100%;
+            width: auto;
                 }
 
         #hero2{
             height: 70%;
+            width: auto;
                 }
 
 #illustrationom
