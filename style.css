@@ -462,4 +462,5 @@ color: #CB997E;
     #site-navigation-menu-toggle {
         background-color: #747D6B;
         border-style: none;
+        outline: none !important;
     }
