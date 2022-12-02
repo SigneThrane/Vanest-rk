@@ -152,7 +152,7 @@ get_header(); ?>
         <br>
          <br>
          <br>
-         <img src="<?php the_field('billedevane'); ?>" alt="" />
+         <img id="herof2" src="<?php the_field('billedevane'); ?>" alt="" />
         </div>
         <div class="col-md-8" id="col-text">
         <br>
