@@ -61,7 +61,7 @@ get_header(); ?>
 
                      <div class="colforløb">
                             <br>
-                            <h2>FORLØBSTYPER</h2>
+                            <h3>FORLØBSTYPER</h3>
                             <p> Vane|Stærk studiet tilbydes du forløb mellem 8 og 52 sessioner eller som abonnementsløsning.
                                    <br> <br>
                                    Herunder ser du en oversigt over aktuelle forløbspa​kker.
@@ -70,46 +70,12 @@ get_header(); ?>
                             </p>
                      </div>
 
-<table>
-        <tr>
-              <thead>
-              <th scope="col-md">Mål</th>
-               <th scope="col-md">Antal sessioner</th>
-              <th scope="col-md">Kontant pris</th>
-               <th scope="col-md">Pr. Session</th>
-              </thead>
-       </tr>
-       <tbody>
-       <tr>
-                      <td scope="row">Kickstart</td>
-                      <td>8 sessioner</td>
-                      <td>5.200</td>
-                      <td>650</td>
-                     </tr>
-                            <tr>
-                             <td scope="row">Vaneændring</td>
-                             <td>16 sessioner</td>
-                             <td>10,000</td>
-                             <td>625</td>
-                            </tr>
-                                    <tr>
-                                     <td scope="row">Vaneændring og fastholdelse</td>
-                                     <td>32 sessioner</td>
-                                     <td>19.200</td>
-                                      <td>600</td>
-                                    </tr>
-                                                  <tr>
-                                                   <td scope="row">Vaneændring og fastholdelse</td>
-                                                  <td>52 sessioner</td>
-                                                   <td>29.900</td>
-                                                  <td>575</td>
-                                                   </tr>
-       </tbody>
-                    
-</table>
+                     <div>
+                     <?php echo do_shortcode('[table id=2 /]');?>
+                     </div>
 
 <div class="colforløb">
-                            <h2>Abonnementsaftale</h2>
+                            <h3>Abonnementsaftale</h3>
                             <p> Skal personlig træning og coaching være en fast del af din livsstil, 
                                    så du altid har en fast sparringspartner ved din side, til at hjælpe 
                                    dig med at prioritere din sundhed og mentale trivsel, så kan du tegne 
@@ -118,25 +84,10 @@ get_header(); ?>
                             </p>
                      </div>
 
-<table>
-   <thead>
-   <tr>
-              <th scope="col-md">Abonnementstype</th>
-               <th scope="col-md">1 session/uge</th>
-              <th scope="col-md">2 session/uge</th>
-       </tr>
-   </thead>
-   <tbody>
-   <tr>
-                      <td scope="row">Månedlig ydelse</td>
-                      <td>Forventeligt 2.400</td>
-                      <td>Forventeligt 4.800</td>
-                     </tr>
-   </tbody>
-      
-                   
-                           
-</table>
+
+                     <div>
+                     <?php echo do_shortcode('[table id=4 /]');?>
+                     </div>
 
 <div class="colforløb">
           <p>
@@ -202,25 +153,9 @@ get_header(); ?>
           </p>        
 </div>
 
-<table>
-       <thead>
-       <tr>
-              <th scope="col-md">Abonnementstype</th>
-               <th scope="col-md">1 session/uge</th>
-              <th scope="col-md">2 session/uge</th>
-       </tr>
-       </thead>
-
-       <tbody>
-       <tr>
-                      <td scope="row">Månedlig ydelse</td>
-                      <td>275</td>
-                      <td>500</td>
-                     </tr> 
-       </tbody>
-      
-                                         
-</table>
+<div>
+                     <?php echo do_shortcode('[table id=5 /]');?>
+                     </div>
 
 <div class="colforløb">
           <p>
@@ -230,7 +165,7 @@ get_header(); ?>
           </p>        
 </div>
 <div class="colforløb">
-              <h2>GRUPPETRÆNINGER</h2>
+              <h3>GRUPPETRÆNINGER</h3>
               <p> I Vane|Stærk studiet tilbydes du forløb mellem 8 og 52 sessioner 
                      eller som abonnementsløsning.
               <br> <br>
@@ -241,37 +176,9 @@ get_header(); ?>
                      </div>
 
 
-<table>
-        <tr>
-              <th><?php the_field('kolonne_1'); ?></th>
-               <td><?php the_field('kolonne_2'); ?></td>
-              <td><?php the_field('kolonne_3'); ?></td>
-               <td><?php the_field('kolonne_4'); ?></td>
-               <td><?php the_field('kolonne_5'); ?></td>
-       </tr>
-                     <tr>
-                      <th><?php the_field('kolonne_6'); ?></th>
-                      <td><?php the_field('kolonne_7'); ?></td>
-                      <td><?php the_field('kolonne_8'); ?></td>
-                      <td><?php the_field('kolonne_9'); ?></td>
-                     <td><?php the_field('kolonne_10'); ?></td>
-                     </tr>  
-                     </tr>
-                            <tr>
-                             <th><?php the_field('kolonne_11'); ?></th>
-                             <td><?php the_field('kolonne_12'); ?></td>
-                             <td><?php the_field('kolonne_13'); ?></td>
-                             <td><?php the_field('kolonne_14'); ?></td>
-                             <td><?php the_field('kolonne_15'); ?></td>
-                            </tr>
-                                    <tr>
-                                     <th><?php the_field('kolonne_16'); ?></th>
-                                     <td><?php the_field('kolonne_17'); ?></td>
-                                     <td><?php the_field('kolonne_18'); ?></td>
-                                      <td><?php the_field('kolonne_19'); ?></td>
-                                      <td><?php the_field('kolonne_20'); ?></td>
-                                    </tr>
-</table>
+                     <div>
+                     <?php echo do_shortcode('[table id=7 /]');?>
+                     </div>
 
 <div class="container">
         <div class="row" id="beigeboks">
