@@ -36,7 +36,7 @@ get_header(); ?>
  <!-- #grøn boks -->       
         <div class="grønboks">
         <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-6">
         <h2>PERSONLIG TRÆNING, COACHING, MADMENTORING, GRUPPETRÆNING</h2>
        
        <p>
@@ -60,7 +60,7 @@ get_header(); ?>
        </p>   
        
 </div>
-<div class="col-md-4">
+<div class="col-md-6">
 <img id="illustrationom" src="<?php the_field('illustration_2'); ?>" alt="" />
         </div>
 </div>
@@ -72,8 +72,6 @@ get_header(); ?>
                     miste målet igen på sigt." - Sandra Lykke</h1>
             </div>
 
-<div class="row">
-        <div class="col-md-6"id="venstreboks">
 
  <div class="biografi">
  <div class="row">
