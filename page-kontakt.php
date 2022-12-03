@@ -24,7 +24,7 @@ get_header(); ?>
              <div>
                   <br> 
                   <hr class="rounded"><h1>KONTAKT</h1><hr>
-                <p>Vil du høre mere om mulighederne for personlig træning, <br> coaching eller gruppeforløb, så er jeg altid klar på en <br> uforpligtende snak over telefon eller i studiet. <br>
+                <p>Vil du høre mere om mulighederne for <br> <br> personlig træning, <br> coaching eller gruppeforløb, så er jeg altid klar på en <br> uforpligtende snak over telefon eller i studiet. <br>
                     Du kan kontakte mig på telefon, instagram eller via <br> kontaktformularen her på siden. <br>
                     Skriv til os, hvis du har nogle spørgsmål, vi svarer vi så snart vi kan.
                   </p>
