@@ -20,7 +20,7 @@ get_header(); ?>
          <br>
          <br>
          <br>
-         <img width="100%" src="<?php the_field('hero_om_vanestaerk'); ?>" alt="" />
+         <img width="100%" src="<?php the_field('hero_om_vanestaerk'); ?>" alt="Sandra Lykke står foran logo" />
         </div>
         <div class="col-md-8" id="col-text">
          <br>
@@ -61,7 +61,7 @@ get_header(); ?>
        
 </div>
 <div class="col-md-6">
-<img width="100%" id="illustrationom" src="<?php the_field('illustration_2'); ?>" alt="" />
+<img width="100%" id="illustrationom" src="<?php the_field('illustration_2'); ?>" alt="Kvindelig illustration som træner" />
         </div>
 </div>
 </div>
@@ -142,7 +142,7 @@ get_header(); ?>
                  <b>2012</b>  - Personlig træner i​ FW Ådalsparken (bijob) <br>
                 <b>2010</b>  - Fitness instruktør​ i FW Dannebrogsgade i Aalborg
             </p>
-            <img width="100%" src="<?php the_field('illustration_3'); ?>" alt="" />
+            <img width="100%" src="<?php the_field('illustration_3'); ?>" alt="Vægt" />
             </div>
 </div>
 
@@ -150,17 +150,17 @@ get_header(); ?>
 
 
         <div class="personale">
-            <hr class="rounded"><h1>OM OS <br>PERSONERNE HOS VANESTÆRK</h1><hr class="rounded">
+            <hr class="rounded"><h2>OM OS <br>PERSONERNE HOS VANESTÆRK</h2><hr class="rounded">
         </div>
 
 
        <div class="row" id="personale1">
         <div class="col-4">
-        <img id="personaleb" src="<?php the_field('personale_1'); ?>" alt="" />
+        <img id="personaleb" src="<?php the_field('personale_1'); ?>" alt="Personale billede" />
         </div>
         
                 <div class="col-8">
-                    <h1 id="personaletekst">Sandra Lykke</h1>
+                    <h2 id="personaletekst">Sandra Lykke</h2>
                     <p>
                     Gruppetræning udgør en stor del af min praksis, da jeg har oplevet <br>
                     hvordan træningsglæden og motivationen for at ​fastholde  <br>
@@ -179,11 +179,11 @@ get_header(); ?>
         <br>
        <div class="row" id="personale2">
         <div class="col-4">
-        <img id="personaleb" src="<?php the_field('personale_2'); ?>" alt="" />
+        <img id="personaleb" src="<?php the_field('personale_2'); ?>" alt="Personale billede" />
         </div>
         
                        <div class="col-8">
-                       <h1 id="personaletekst">Sara Busch</h1>
+                       <h2 id="personaletekst">Sara Busch</h2>
                             <p>
                             Gruppetræning udgør en stor del af min praksis, da jeg har oplevet  <br>
                             hvordan træningsglæden og motivationen for at ​fastholde <br>
@@ -202,11 +202,11 @@ get_header(); ?>
        <br>
        <div class="row" id="personale3">
         <div class="col-4">
-        <img id="personaleb" src="<?php the_field('personale_3'); ?>" alt="" />
+        <img id="personaleb" src="<?php the_field('personale_3'); ?>" alt="Personale billede" />
         </div>
         
                      <div class="col-8">
-                     <h1 id="personaletekst">Kristiane Jensen</h1>
+                     <h2 id="personaletekst">Kristiane Jensen</h2>
                      <p>
                             Gruppetræning udgør en stor del af min praksis, da jeg har oplevet  <br>
                             hvordan træningsglæden og motivationen for at ​fastholde <br>

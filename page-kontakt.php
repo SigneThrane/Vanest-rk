@@ -18,7 +18,7 @@ get_header(); ?>
 <div class="container">
         <div class="row" id="velkommen">
         <div class="col-4">
-        <img src="<?php the_field('kontakt'); ?>" alt="" />
+        <img src="<?php the_field('kontakt'); ?>" alt="Vanestærk personale krammer og griner" />
         </div>
         <div class="col-8" id="col-text">
              <div>
@@ -37,7 +37,7 @@ get_header(); ?>
                      </div>
                      <div class="row">
                     <div class="col-6" id="kontaktform1"> 
-                    <img id="kontaktillu" width="80%" src="<?php the_field('illustration'); ?>" alt="" /> </div>
+                    <img id="kontaktillu" width="80%" src="<?php the_field('illustration'); ?>" alt="Kvindelig illustration som træner" /> </div>
                     <div class="col-6" id="kontaktform2">
                         <br>
                    <h2>Skriv til os!</h2><br>

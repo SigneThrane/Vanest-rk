@@ -20,7 +20,7 @@ get_header(); ?>
         <br>
          <br>
          <br>
-         <img width="100%" src="<?php the_field('heropriser'); ?>" alt="" />
+         <img width="100%" src="<?php the_field('heropriser'); ?>" alt="kvinder som træner" />
         </div>
         <div class="col-md-8" id="col-text">
         <br>
@@ -53,7 +53,7 @@ get_header(); ?>
       under sessionerne.</p>
 </div>
 <div class="col-md-4">
-<img width="100%" id="illustrationom" src="<?php the_field('illustration_5'); ?>" alt="" />
+<img width="100%" id="illustrationom" src="<?php the_field('illustration_5'); ?>" alt="Kvindelig illustration" />
         </div>
 </div>
 </div>
@@ -103,14 +103,14 @@ get_header(); ?>
         <br>
          <br>
          <br>
-         <img width="100%" src="<?php the_field('billedevane'); ?>" alt="" />
+         <img width="100%" src="<?php the_field('billedevane'); ?>" alt="kvinder som træner" />
         </div>
         <div class="col-md-8" id="col-text">
         <br>
          <br>
          <br>
         <hr class="rounded">
-        <h1>Jeg er altid til rådighed for en uforpligtende samtale inden køb af forløb.</h1>
+        <h2>Jeg er altid til rådighed for en uforpligtende samtale inden køb af forløb.</h2>
               <p>
               Kontakt mig, så finder vi en tid hvor vi <br>
               kan mødes og få en snak om dine <br>
@@ -140,7 +140,7 @@ get_header(); ?>
               </p>
 </div>
 <div class="col-md-4">
-<img  width="100%" src="<?php the_field('illustration_6'); ?>" alt="" />
+<img  width="100%" src="<?php the_field('illustration_6'); ?>" alt="Kvinder som træner illustration" />
         </div>
 </div>
 </div>
@@ -186,7 +186,7 @@ get_header(); ?>
         <br>
          <br>
          <br>
-         <img src="<?php the_field('billede_3'); ?>" alt="" />
+         <img src="<?php the_field('billede_3'); ?>" alt="Kvinder som sidder med vanestærk trøjer" />
         </div>
         <div class="col-md-8" id="col-text">
         <br>
