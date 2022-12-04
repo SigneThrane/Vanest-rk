@@ -20,7 +20,7 @@ get_header(); ?>
          <br>
          <br>
          <br>
-         <img width="100%" src="<?php the_field('hero_om_vanestaerk'); ?>" alt="Sandra Lykke står foran logo" />
+         <img width="100%" src="<?php the_field('hero_om_vanestaerk'); ?>" alt="" />
         </div>
         <div class="col-md-8" id="col-text">
          <br>
@@ -61,7 +61,7 @@ get_header(); ?>
        
 </div>
 <div class="col-md-6">
-<img width="100%" id="illustrationom" src="<?php the_field('illustration_2'); ?>" alt="Kvindelig illustration som træner" />
+<img width="100%" id="illustrationom" src="<?php the_field('illustration_2'); ?>" alt="" />
         </div>
 </div>
 </div>
@@ -142,7 +142,7 @@ get_header(); ?>
                  <b>2012</b>  - Personlig træner i​ FW Ådalsparken (bijob) <br>
                 <b>2010</b>  - Fitness instruktør​ i FW Dannebrogsgade i Aalborg
             </p>
-            <img width="100%" src="<?php the_field('illustration_3'); ?>" alt="Vægt" />
+            <img width="100%" src="<?php the_field('illustration_3'); ?>" alt="" />
             </div>
 </div>
 
@@ -156,22 +156,22 @@ get_header(); ?>
 
        <div class="row" id="personale1">
         <div class="col-4">
-        <img id="personaleb" src="<?php the_field('personale_1'); ?>" alt="Personale billede" />
+        <img id="personaleb" src="<?php the_field('personale_1'); ?>" alt="" />
         </div>
         
                 <div class="col-8">
                     <h2 id="personaletekst">Sandra Lykke</h2>
                     <p>
-                    Mit navn er Sandra Lykke, 
-og det er mig der er stifter af Vane|Stærk. 
-
-Jeg har siden 2010 arbejdet med træningsvejledning, og har løbende erhvervet mig en bred viden fra diverse uddannelser, faglitteratur, personlige erfaringer og klientfeedback. <br>
-
-Jeg er meget investeret og interesseret i, at forstå psykologien bag spiseadfærd og vaneændring <br>
-
-- og jeg arbejder i dag primært med at hjælpe dig der ønsker at opnå <br>
-
-Øget sundhed, et mere naturligt forhold til mad og krop, øget selvværd, et selvkærligt vægttab/vægtstabilitet eller at mindske overspisning.
+                    Gruppetræning udgør en stor del af min praksis, da jeg har oplevet <br>
+                    hvordan træningsglæden og motivationen for at ​fastholde  <br>
+                    træningsrytmen stiger når vi samles om træningen i grupper. <br> <br>
+                    På gruppetræning indgår du på 1-2 hold ugentligt sammen med op <br>
+                    til 7 andre på hvert hold. Det er den samme gruppe du træner med <br>
+                    på hvert hold, så vi får oparbejdet en god dynamik og holdånd. <br> <br>
+                    Træningen består af helkropstræning med frie vægte og egen <br>
+                    kropsvægt. <br>
+                    Og vi arbejder med at fremme all round sundhed, med elementer af <br>
+                    styrke, smidighed og udholdenhed.
                     </p>
                 </div>
        </div> 
@@ -179,7 +179,7 @@ Jeg er meget investeret og interesseret i, at forstå psykologien bag spiseadfæ
         <br>
        <div class="row" id="personale2">
         <div class="col-4">
-        <img id="personaleb" src="<?php the_field('personale_2'); ?>" alt="Personale billede" />
+        <img id="personaleb" src="<?php the_field('personale_2'); ?>" alt="" />
         </div>
         
                        <div class="col-8">
@@ -202,21 +202,22 @@ Jeg er meget investeret og interesseret i, at forstå psykologien bag spiseadfæ
        <br>
        <div class="row" id="personale3">
         <div class="col-4">
-        <img id="personaleb" src="<?php the_field('personale_3'); ?>" alt="Personale billede" />
+        <img id="personaleb" src="<?php the_field('personale_3'); ?>" alt="" />
         </div>
         
                      <div class="col-8">
                      <h2 id="personaletekst">Kristiane Jensen</h2>
                      <p>
-                     Jeg hedder Kristiane, er 33 år, bosiddende i Esbjerg i et skønt lille rækkehus. <br>
-Jeg er uddannet socialrådgiver og er meget tæt på at være certificeret fysisk træner med speciale i mental trivsel. <br>
-Personligt har jeg selv mange års erfaring med træning, og har igennem en meget lang årrække, som klient, gjort brug af personlig træning, holdtræninger, fitness center og forskellige lukkede forløb. 
-Jeg har på egen krop og eget hovedet oplevet det paradigmeskifte, der har været i forhold til at tænke træning og sundhed. Hvor man er gået fra en mere restriktiv tankegang omkring både mad og træning til indenfor de senere år at forsøge at gøre op med forbud, restriktioner og kostplaner og derimod forstå de psykologiske faktorer bag sundhed. <br>
-Jeg kender ALT til, hvad det vil sige at træne og bevæge sig i en stor krop. Wow, hvor kan min krop mange ting! ✨ … også da den var størst. Men jeg kender også alt til, hvor grænseoverskridende det kan være, at bevæge sig ind i et fitnesscenter. Jeg har også oplevet, at der indimellem har manglet indsigt i, hvad det vil sige at bevæge en stor krop. Sandra og 
-jeg har igennem 7 år haft mange snakke om, hvordan det er at lave træning og bevægelse i en større krop. Så da hun spurgte, om jeg kunne være interesseret i et samarbejde med hende, var jeg ikke det mindste i tvivl. Der er så mange fantastiske hold på planen i Vane|Stærk (hvor man iøvrigt også kan møde mig på holdene - jeg er hende, som ikke kan klappe i takt), 
-og lige om lidt er der også et lukket hold og et lukket forløb for dejlige curvy kvinder, som gerne vil bevæge sig, og som ønsker at blive støttet i et selvkærligt forløb som omhandler faktorer bag spisning, vaner og et par facts om mad (og madmyter). <br>
-
-Jeg glæder mig uendeligt meget til at være med på din rejse. Jeg står klar med kæmpe smil, klaskende highfives og svedige krammere. Jeg er klar til at møde dig lige præcis, der hvor du er i din træning eller opstart på træning og præcis som du er.
+                            Gruppetræning udgør en stor del af min praksis, da jeg har oplevet  <br>
+                            hvordan træningsglæden og motivationen for at ​fastholde <br>
+                            træningsrytmen stiger når vi samles om træningen i grupper. <br><br>
+                            På gruppetræning indgår du på 1-2 hold ugentligt sammen med op <br>
+                            til 7 andre på hvert hold. Det er den samme gruppe du træner med  <br>
+                            på hvert hold, så vi får oparbejdet en god dynamik og holdånd. <br> <br>
+                            Træningen består af helkropstræning med frie vægte og egen <br>
+                            kropsvægt.  <br>
+                            Og vi arbejder med at fremme all round sundhed, med elementer af <br>
+                            styrke, smidighed og udholdenhed. <br>
                             </p>
                     </div>
        </div>

@@ -22,7 +22,7 @@ get_header(); ?>
         <div class="col-md-8" id="col-text">
         <hr class="rounded"><h1>Velkommen til Vane|Stærk, vi er glade for at se dig</h1><hr class="rounded">
         <p>Vi hjælper dig på din vej mod madro, bevægelsesglæde og selvkærlighed. Læs mere, for at se hvad vi kan tilbyde lige netop dig.  </p>
-      <a href="/om-vanestaerk/"><button id="laes"> Læs mere</button></a>  
+      <a href="https://signethrane.one/vanestaerkCMS/omkring-os/"><button id="laes"> Læs mere</button></a>  
      </div>
         </div>
  <!-- #aktuelt -->       
@@ -38,7 +38,7 @@ Vi arbejder med emnerne madro, bevægelsesglæde og kropsrespekt, i et 10 ugers 
 Vi mødes hver tirsdag kl 19.15 og torsdag kl 18, opstart uge 47 til og med uge 5. (Vi holder ferie i uge 52))</br></br>
 
 <b>Pris: 5.500kr (eller 1850kr pr måned i 3 måneder)</b></p>
-  <a href="/booking/"><button id="laes">Book her</button></a>
+  <a href="https://signethrane.one/vanestaerkCMS/booking/"><button id="laes">Book her</button></a>
 </div>
         <div class="col-md-4">
         <img width="100%"  src="<?php the_field('illustration_1'); ?>" alt="Kvindelig illustration" />

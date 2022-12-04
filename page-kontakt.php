@@ -17,14 +17,14 @@ get_header(); ?>
       <br>
 <div class="container">
         <div class="row" id="velkommen">
-        <div class="col-4">
+        <div class="col-md-4">
         <img src="<?php the_field('kontakt'); ?>" alt="Vanestærk personale krammer og griner" />
         </div>
-        <div class="col-8" id="col-text">
+        <div class="col-md-8" id="col-text">
              <div>
                   <br> 
                   <hr class="rounded"><h1>KONTAKT</h1><hr>
-                <p>Vil du høre mere om mulighederne for <br> <br> personlig træning, <br> coaching eller gruppeforløb, så er jeg altid klar på en <br> uforpligtende snak over telefon eller i studiet. <br>
+                <p>Vil du høre mere om mulighederne for personlig træning, <br> coaching eller gruppeforløb, så er jeg altid klar på en <br> uforpligtende snak over telefon eller i studiet. <br>
                     Du kan kontakte mig på telefon, instagram eller via <br> kontaktformularen her på siden. <br>
                     Skriv til os, hvis du har nogle spørgsmål, vi svarer vi så snart vi kan.
                   </p>
@@ -36,7 +36,7 @@ get_header(); ?>
                      </div>
                      </div>
                      <div class="row">
-                    <div class="col-6" id="kontaktform1"> 
+                    <div class="col-md-6" id="kontaktform1"> 
                     <img id="kontaktillu" width="80%" src="<?php the_field('illustration'); ?>" alt="Kvindelig illustration som træner" /> </div>
                     <div class="col-6" id="kontaktform2">
                         <br>

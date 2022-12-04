@@ -119,7 +119,7 @@ get_header(); ?>
               find en ledig tid via "gå til booking" <br>
               knappen herunder.
               </p>
-           <a href="/booking/"> <button id="laes">Gå til booking</button></a>  
+           <a href="https://signethrane.one/vanestaerkCMS/booking/"> <button id="laes">Gå til booking</button></a>  
      </div>
         </div>
 
@@ -189,17 +189,17 @@ get_header(); ?>
          <img src="<?php the_field('billede_3'); ?>" alt="Kvinder som sidder med vanestærk trøjer" />
         </div>
         <div class="col-md-8" id="col-text">
-        <br>
-         <br>
-         <br>
+ 
+
+           <h2>Kontakt os</h2>
         <hr class="rounded">
-        <h2>Kontakt os</h2>
+        
        <p>Kontakt mig for at komme i gang som abonnent på gruppetræning i Vane|Stærk studiet.
               <br>
               
 Du kan også kontakte mig med ønsker om specifikke hold, eller hvis i er en gruppe som ønsker at træne sammen.
        </p>
-            <a href="/kontakt/"><button id="laes">Kontakt</button></a>  
+            <a href="https://signethrane.one/vanestaerkCMS/kontakt/"><button id="laes">Kontakt</button></a>  
      </div>
         </div>
 
