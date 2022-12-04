@@ -193,6 +193,7 @@ get_header(); ?>
          <br>
          <br>
         <hr class="rounded">
+        <h2>Kontakt os</h2>
        <p>Kontakt mig for at komme i gang som abonnent på gruppetræning i Vane|Stærk studiet.
               <br>
               
